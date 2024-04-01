@@ -1,0 +1,553 @@
+full_name,age,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,hattricks_total_overall,two_goals_in_a_game_total_overall,saves_total_overall,PSxG,PSxG/SoT,xSaves_total_overall,SoTA
+Abbey-Leigh Stringer,28,2022/2023,Midfielder,West Ham United Women,802,398,404,England,11,6,5,0,0,0,0,0,0,0,0,3,2,1,21,10,11,4,0,0,0,0,0,0,0,0
+Abbie McManus,30,2022/2023,Defender,Leicester City WFC,152,62,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,4,1,0,0,0,0,0,0,0,0,0
+Adriana Leon,31,2022/2023,Forward,Manchester United Women,76,66,10,Canada,5,4,1,1,1,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+Agnes Beever-Jones,20,2022/2023,Forward,Everton Women,757,359,398,England,16,8,8,2,2,0,0,0,0,0,0,5,1,4,13,10,3,4,1,0,0,0,0,0,0,0
+Aileen Whelan,32,2022/2023,Forward,Leicester City WFC,1929,990,939,England,22,11,11,1,1,0,1,1,0,0,0,5,3,2,43,22,21,1,0,0,0,0,0,0,0,0
+Aimee Claypole,17,2022/2023,Forward,Chelsea Women,9,9,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Aïssatou Tounkara,28,2022/2023,Midfielder,Manchester United Women,4,0,4,France,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Alanna Kennedy,28,2022/2023,Defender,Manchester City Women,180,90,90,Australia,2,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Alessia Russo,24,2022/2023,Midfielder,Manchester United Women,1561,783,778,England,20,10,10,10,9,1,1,1,0,0,0,12,7,5,10,3,7,1,0,1,1,0,0,0,0,0
+Alex Greenwood,30,2022/2023,Defender,Manchester City Women,1794,968,826,England,21,11,10,0,0,0,3,2,1,0,1,6,2,4,21,9,12,3,0,0,0,0,0,0,0,0
+Alexandra Elena MacIver,25,2022/2023,Goalkeeper,Manchester City Women,270,0,270,England,3,0,3,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,4,1.14,0.19,0.81,6
+Alisha Lehmann,24,2022/2023,Forward,Aston Villa Ladies,1533,786,747,Switzerland,22,11,11,5,3,2,2,2,0,0,1,6,1,5,27,17,10,2,0,0,1,0,0,0,0,0
+Alsu Abdullina,22,2022/2023,Midfielder,Chelsea Women,115,82,33,Russia,6,3,3,0,0,0,1,0,1,0,0,5,2,3,1,1,0,0,0,0,0,0,0,0,0,0
+Amalie Grønbak Thestrup,28,2022/2023,Forward,West Ham United Women,495,242,253,Denmark,10,5,5,0,0,0,0,0,0,0,0,2,2,0,7,4,3,0,0,0,0,0,0,0,0,0
+Amalie Vevle Eikeland,28,2022/2023,Forward,Reading Women,1980,990,990,Norway,22,11,11,1,0,1,1,1,0,0,0,1,1,0,56,23,33,2,0,0,0,0,0,0,0,0
+Amber Tysiak,23,2022/2023,Midfielder,West Ham United Women,226,145,81,Belgium,4,2,2,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0
+Amy Turner,32,2022/2023,Defender,Tottenham Hotspur Women,1856,970,886,England,22,11,11,0,0,0,0,0,0,0,0,3,2,1,43,23,20,4,0,0,0,0,0,0,0,0
+Angharad James,29,2022/2023,Midfielder,Tottenham Hotspur Women,1552,669,883,Wales,22,11,11,0,0,0,2,1,1,0,0,3,2,1,34,15,19,1,0,0,0,0,0,0,0,0
+Aniek Nouwen,24,2022/2023,Defender,Chelsea Women,118,12,106,Netherlands,3,1,2,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0
+Ann-Katrin Berger,33,2022/2023,Goalkeeper,Chelsea Women,1350,810,540,Germany,15,9,6,0,0,0,0,0,0,0,0,8,5,3,9,5,4,0,0,0,0,33,10.5,0.25,0.75,42
+Anna Jessica Leat,22,2022/2023,Goalkeeper,Aston Villa Ladies,630,360,270,New Zealand,7,4,3,0,0,0,0,0,0,0,0,1,0,1,9,5,4,1,0,0,0,18,6.75,0.25,0.75,27
+Anna Patten,24,2022/2023,Defender,Aston Villa Ladies,1580,888,692,England,19,10,9,0,0,0,1,0,1,0,0,4,1,3,30,17,13,1,0,0,0,0,0,0,0,0
+Anouk Denton,20,2022/2023,Defender,West Ham United Women,246,59,187,England,5,1,4,0,0,0,0,0,0,0,0,0,0,0,5,2,3,0,0,0,0,0,0,0,0,0
+Aoife Mannion,28,2022/2023,Defender,Manchester United Women,210,115,95,England,5,3,2,0,0,0,0,0,0,0,0,3,3,0,2,0,2,0,0,0,0,0,0,0,0,0
+Ashleigh Neville,30,2022/2023,Defender,Tottenham Hotspur Women,1740,933,807,England,21,11,10,3,0,3,3,1,2,0,0,3,2,1,39,22,17,5,1,0,1,0,0,0,0,0
+Ashleigh Plumptre,25,2022/2023,Midfielder,Leicester City WFC,1742,894,848,England,20,10,10,1,1,0,0,0,0,0,0,5,3,2,29,14,15,4,0,0,0,0,0,0,0,0
+Asmita Ale,21,2022/2023,Defender,Tottenham Hotspur Women,816,324,492,England,13,5,8,0,0,0,1,0,1,0,0,2,1,1,16,7,9,0,0,0,0,0,0,0,0,0
+Aurora Galli,26,2022/2023,Midfielder,Everton Women,1068,517,551,Italy,20,11,9,0,0,0,2,1,1,0,0,5,2,3,22,10,12,0,0,0,0,0,0,0,0,0
+Bethany England,29,2022/2023,Midfielder,Tottenham Hotspur Women,1265,731,534,England,20,11,9,14,9,5,1,0,1,1,0,4,2,2,29,18,11,0,0,0,3,0,0,0,0,0
+Bethany Mead,28,2022/2023,Forward,Arsenal Women,614,344,270,England,7,4,3,3,3,0,4,3,1,0,0,5,2,3,3,3,0,0,0,0,1,0,0,0,0,0
+Brianna Visalli,28,2022/2023,Midfielder,Brighton & Hove Albion Women,205,34,171,Republic of Ireland,10,5,5,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0
+Brooke Cairns,20,2022/2023,Midfielder,West Ham United Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brooke Hendrix,30,2022/2023,Defender,Reading Women,211,119,92,England,7,4,3,0,0,0,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0
+Caitlin Foord,28,2022/2023,Forward,Arsenal Women,1347,652,695,Australia,19,9,10,6,1,5,6,4,2,0,0,10,5,5,11,5,6,3,0,0,2,0,0,0,0,0
+Carla Humphrey,26,2022/2023,Midfielder,Liverpool Women,94,16,78,England,8,3,5,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+Carlotte Wubben-Moy,24,2022/2023,Defender,Arsenal Women,1615,669,946,England,21,10,11,1,0,1,1,0,1,0,0,11,6,5,14,6,8,1,0,0,0,0,0,0,0,0
+Carrie Jones,20,2022/2023,Forward,Leicester City WFC,1274,696,578,Wales,19,10,9,2,2,0,0,0,0,0,0,5,3,2,25,17,8,1,0,0,0,0,0,0,0,0
+Catherine Joan Bott,28,2022/2023,Defender,Leicester City WFC,1231,617,614,New Zealand,19,10,9,0,0,0,0,0,0,0,0,4,2,2,28,13,15,4,0,0,0,0,0,0,0,0
+Celin Ildhusøy,21,2022/2023,Forward,Tottenham Hotspur Women,1360,741,619,Norway,22,11,11,2,1,1,1,0,1,0,0,3,2,1,34,18,16,1,0,0,0,0,0,0,0,0
+Ceri Holland,25,2022/2023,Defender,Liverpool Women,1515,900,615,Wales,19,10,9,4,4,0,0,0,0,0,0,3,2,1,26,11,15,6,0,0,1,0,0,0,0,0
+Chantelle Boye-Hlorkah,28,2022/2023,Forward,Aston Villa Ladies,57,25,32,England,4,2,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+Charlie Wellings,25,2022/2023,Forward,Reading Women,1309,708,601,England,20,11,9,4,1,3,2,2,0,0,0,1,1,0,39,18,21,1,0,0,0,0,0,0,0,0
+Charlotte Wardlaw,20,2022/2023,Midfielder,Liverpool Women,129,18,111,England,4,1,3,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,0
+Chioma Ubogagu,31,2022/2023,Forward,Tottenham Hotspur Women,213,112,101,USA,9,5,4,0,0,0,0,0,0,0,0,2,1,1,4,2,2,0,0,0,0,0,0,0,0,0
+Chloe Kelly,25,2022/2023,Forward,Manchester City Women,1776,901,875,England,22,11,11,5,4,1,9,6,3,0,0,6,2,4,20,9,11,4,0,0,1,0,0,0,0,0
+Clare Wheeler,25,2022/2023,Midfielder,Everton Women,1155,639,516,Australia,17,10,7,0,0,0,1,1,0,0,0,4,1,3,26,12,14,0,0,0,0,0,0,0,0,0
+Claudia Walker,27,2022/2023,Midfielder,West Ham United Women,243,137,106,England,8,5,3,0,0,0,0,0,0,0,0,3,2,1,2,2,0,1,0,0,0,0,0,0,0,0
+Connie Scofield,24,2022/2023,Midfielder,Leicester City WFC,6,6,0,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Courtney Brosnan,27,2022/2023,Goalkeeper,Everton Women,1260,450,810,Republic of Ireland,14,5,9,0,0,0,0,0,0,0,0,4,0,4,24,9,15,0,0,0,0,36,16.47,0.27,0.73,61
+Courtney Nevin,21,2022/2023,Midfielder,Leicester City WFC,1071,441,630,Australia,12,5,7,0,0,0,4,3,1,0,0,4,2,2,22,5,17,1,0,0,0,0,0,0,0,0
+Dagný Brynjarsdóttir,32,2022/2023,Midfielder,West Ham United Women,1766,876,890,Iceland,21,11,10,6,1,5,1,1,0,1,1,5,4,1,36,14,22,1,0,0,0,0,0,0,0,0
+Danielle Carter,30,2022/2023,Forward,Brighton & Hove Albion Women,818,258,560,England,20,10,10,5,2,3,1,0,1,3,0,1,1,0,28,11,17,2,0,0,1,0,0,0,0,0
+Danielle Turner,32,2022/2023,Midfielder,Aston Villa Ladies,1936,990,946,England,22,11,11,0,0,0,0,0,0,0,0,6,1,5,35,21,14,1,0,0,0,0,0,0,0,0
+Deanna Cooper,30,2022/2023,Defender,Reading Women,1001,355,646,England,14,6,8,1,0,1,0,0,0,0,0,1,1,0,30,8,22,5,0,0,0,0,0,0,0,0
+Deanne Rose,24,2022/2023,Forward,Reading Women,88,33,55,Canada,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,0
+Dejana Stefanović,26,2022/2023,Midfielder,Brighton & Hove Albion Women,125,56,69,Serbia,6,4,2,0,0,0,0,0,0,0,0,1,1,0,5,4,1,0,0,0,0,0,0,0,0,0
+Demi Lambourne,27,2022/2023,Goalkeeper,Leicester City WFC,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,9,8,1,0,0,0,0,6,6.6,0.44,0.56,15
+Demi Stokes,31,2022/2023,Defender,Manchester City Women,181,1,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,4,0,4,0,0,0,0,0,0,0,0,0
+Demi Vance,32,2022/2023,Midfielder,Leicester City WFC,122,122,0,Northern Ireland,3,3,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0
+Deyna Cristina Castellanos Naujenis,24,2022/2023,Forward,Manchester City Women,1078,527,551,Venezuela,19,9,10,1,1,0,1,0,1,0,0,5,1,4,9,5,4,1,0,0,0,0,0,0,0,0
+Diane Caldwell,35,2022/2023,Midfielder,Reading Women,759,561,198,Republic of Ireland,11,7,4,0,0,0,0,0,0,0,0,1,1,0,23,16,7,2,0,0,0,0,0,0,0,0
+Drew Spence,30,2022/2023,Midfielder,Tottenham Hotspur Women,1776,947,829,England,22,11,11,3,0,3,2,1,1,0,0,3,2,1,42,22,20,5,0,0,1,0,0,0,0,0
+Eartha Cumings,24,2022/2023,Goalkeeper,Everton Women,180,0,180,Scotland,2,0,2,0,0,0,0,0,0,0,0,0,0,0,6,0,6,0,0,0,0,6,2.4,0.2,0.8,12
+Easther Kellsy Philomene Mayi Kith,26,2022/2023,Defender,Reading Women,638,389,249,Cameroon,8,5,3,0,0,0,0,0,0,0,0,0,0,0,22,11,11,0,0,0,0,0,0,0,0,0
+Elisabeth Terland,22,2022/2023,Forward,Brighton & Hove Albion Women,1378,802,576,Norway,17,10,7,7,4,3,0,0,0,0,0,1,1,0,41,22,19,3,0,0,1,0,0,0,0,0
+Elise Isolde Stenevik,24,2022/2023,Midfielder,Everton Women,678,275,403,Norway,19,10,9,0,0,0,2,2,0,0,0,5,2,3,13,5,8,0,0,0,0,0,0,0,0,0
+Ella Rose Houghton,19,2022/2023,Midfielder,Tottenham Hotspur Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ella Toone,24,2022/2023,Forward,Manchester United Women,1790,877,913,England,22,11,11,3,2,1,8,7,1,0,0,14,8,6,11,4,7,3,1,0,1,0,0,0,0,0
+Ellie Brazil,24,2022/2023,Forward,Tottenham Hotspur Women,93,19,74,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Ellie Roebuck,24,2022/2023,Goalkeeper,Manchester City Women,1482,810,672,England,17,9,8,0,0,0,0,0,0,0,0,5,2,3,17,6,11,2,1,0,0,28,12.88,0.28,0.72,46
+Emily Gielnik,31,2022/2023,Forward,Aston Villa Ladies,167,76,91,Australia,9,4,5,1,0,1,0,0,0,0,0,2,0,2,4,2,2,0,0,0,0,0,0,0,0,0
+Emily Orman,20,2022/2023,Goalkeeper,Chelsea Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Emily Ramsey,22,2022/2023,Goalkeeper,Everton Women,720,540,180,England,8,6,2,0,0,0,0,0,0,0,0,3,2,1,10,9,1,0,0,0,0,47,13.11,0.23,0.77,57
+Emma Koivisto,29,2022/2023,Midfielder,Liverpool Women,1756,849,907,Finland,21,10,11,2,1,1,4,3,1,0,0,3,2,1,34,10,24,2,0,0,0,0,0,0,0,0
+Emma Kullberg,32,2022/2023,Defender,Brighton & Hove Albion Women,1537,900,637,Sweden,19,10,9,0,0,0,0,0,0,0,0,1,1,0,49,31,18,3,1,0,0,0,0,0,0,0
+Emma Mitchell,31,2022/2023,Defender,Reading Women,1780,856,924,Scotland,21,10,11,0,0,0,2,1,1,0,0,0,0,0,53,23,30,0,0,0,0,0,0,0,0,0
+Emma Snerle,22,2022/2023,Forward,West Ham United Women,766,368,398,Denmark,12,6,6,2,1,1,0,0,0,0,0,2,2,0,15,5,10,1,0,0,0,0,0,0,0,0
+Erin Cuthbert,25,2022/2023,Midfielder,Chelsea Women,1373,663,710,Scotland,18,9,9,5,3,2,3,2,1,0,0,8,5,3,13,5,8,1,0,0,0,0,0,0,0,0
+Erin Simon,29,2022/2023,Defender,Leicester City WFC,715,370,345,USA,10,6,4,0,0,0,0,0,0,0,0,1,1,0,17,13,4,1,0,0,0,0,0,0,0,0
+Esme Beth Morgan,22,2022/2023,Defender,Manchester City Women,1329,609,720,England,17,9,8,0,0,0,0,0,0,0,0,5,2,3,15,5,10,1,0,0,0,0,0,0,0,0
+Estelle Cascarino,26,2022/2023,Defender,Manchester United Women,19,19,0,France,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eve Perisset,28,2022/2023,Midfielder,Chelsea Women,1166,734,432,France,18,10,8,0,0,0,3,3,0,0,0,10,6,4,8,5,3,0,0,0,0,0,0,0,0,0
+Eveliina Summanen,25,2022/2023,Midfielder,Tottenham Hotspur Women,1510,890,620,Finland,20,11,9,3,2,1,3,2,1,0,0,3,2,1,30,20,10,5,0,0,1,0,0,0,0,0
+Evie Rabjohn,18,2022/2023,Defender,Aston Villa Ladies,90,90,0,England,3,1,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Faye Bryson,26,2022/2023,Defender,Reading Women,994,475,519,England,17,9,8,0,0,0,1,0,1,0,0,1,1,0,23,8,15,5,0,0,0,0,0,0,0,0
+Faye Mary Kirby,23,2022/2023,Goalkeeper,Liverpool Women,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,1,5,1,0,0,0,6,2.28,0.19,0.81,12
+Filippa Angeldal,26,2022/2023,Midfielder,Manchester City Women,1097,622,475,Sweden,16,9,7,2,1,1,1,1,0,0,0,4,2,2,14,6,8,1,0,0,0,0,0,0,0,0
+Francesca Kirby,30,2022/2023,Forward,Chelsea Women,503,267,236,England,8,4,4,6,3,3,1,0,1,1,0,3,2,1,6,3,3,0,0,0,1,0,0,0,0,0
+Freya Godfrey,18,2022/2023,Midfielder,Arsenal Women,1,0,1,England,2,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Frida Maanum,24,2022/2023,Midfielder,Arsenal Women,1712,797,915,Norway,22,11,11,9,5,4,4,1,3,0,0,11,6,5,15,7,8,1,0,0,0,0,0,0,0,0
+Fuka Nagano,24,2022/2023,Midfielder,Liverpool Women,990,540,450,Japan,11,6,5,0,0,0,0,0,0,0,0,2,1,1,14,5,9,0,0,0,0,0,0,0,0,0
+Gabrielle George,26,2022/2023,Defender,Everton Women,1329,722,607,England,16,9,7,2,2,0,2,1,1,0,0,7,2,5,13,11,2,3,0,0,0,0,0,0,0,0
+Gemma Bonner,32,2022/2023,Defender,Liverpool Women,975,450,525,England,12,5,7,0,0,0,1,1,0,0,0,2,1,1,16,4,12,1,0,0,0,0,0,0,0,0
+Gemma Evans,27,2022/2023,Forward,Reading Women,1509,686,823,Wales,19,9,10,0,0,0,1,0,1,0,0,1,1,0,40,12,28,1,0,0,0,0,0,0,0,0
+Georgia Brougham,27,2022/2023,Defender,Leicester City WFC,90,90,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,8,8,0,0,0,0,0,0,0,0,0,0
+Georgia Eaton-Collins,23,2022/2023,Defender,Leicester City WFC,272,174,98,England,5,2,3,0,0,0,0,0,0,0,0,2,1,1,4,2,2,0,0,0,0,0,0,0,0,0
+Geum-Min Lee,29,2022/2023,Forward,Brighton & Hove Albion Women,1694,874,820,South Korea,22,11,11,3,1,2,2,2,0,0,0,1,1,0,55,29,26,2,0,0,0,0,0,0,0,0
+Gilly Louise Scarlett Flaherty,32,2022/2023,Defender,Liverpool Women,720,450,270,England,8,5,3,0,0,0,0,0,0,0,0,1,1,0,13,7,6,2,0,0,0,0,0,0,0,0
+Giovana Queiroz,20,2022/2023,Forward,Arsenal Women,323,105,218,Spain,18,7,11,1,0,1,0,0,0,0,0,9,4,5,2,0,2,2,0,0,0,0,0,0,0,0
+Grace Fisk,25,2022/2023,Midfielder,West Ham United Women,1808,818,990,England,21,10,11,0,0,0,0,0,0,0,0,5,4,1,39,15,24,2,0,0,0,0,0,0,0,0
+Grace Moloney,30,2022/2023,Goalkeeper,Reading Women,1100,540,560,Republic of Ireland,13,6,7,0,0,0,0,0,0,0,0,0,0,0,37,17,20,1,0,0,0,59,25.92,0.27,0.73,96
+Guro Bergsvand,29,2022/2023,Defender,Brighton & Hove Albion Women,742,437,305,Norway,10,5,5,0,0,0,1,0,1,0,0,1,1,0,18,13,5,0,0,0,0,0,0,0,0,0
+Guro Reiten,29,2022/2023,Midfielder,Chelsea Women,1470,690,780,Norway,21,10,11,9,5,4,11,5,6,2,0,10,5,5,10,3,7,0,0,0,0,0,0,0,0,0
+Halle Houssein,18,2022/2023,Midfielder,West Ham United Women,41,31,10,England,5,3,2,0,0,0,0,0,0,0,0,1,0,1,2,2,0,0,0,0,0,0,0,0,0,0
+Hanna Bennison,21,2022/2023,Forward,Everton Women,1262,625,637,Sweden,21,10,11,3,1,2,0,0,0,0,0,7,2,5,24,12,12,0,0,0,0,0,0,0,0,0
+Hannah Cain,24,2022/2023,Forward,Leicester City WFC,1066,526,540,England,14,7,7,2,1,1,2,2,0,1,0,5,3,2,23,6,17,1,0,0,0,0,0,0,0,0
+Hannah Hampton,22,2022/2023,Goalkeeper,Aston Villa Ladies,1350,630,720,England,15,7,8,0,0,0,0,0,0,0,0,5,1,4,26,16,10,1,0,0,0,48,21.75,0.29,0.71,75
+Hannah Jayne Blundell,29,2022/2023,Defender,Manchester United Women,1848,896,952,England,22,11,11,1,0,1,2,0,2,0,0,14,8,6,10,3,7,3,0,0,0,0,0,0,0,0
+Hawa Cissoko,26,2022/2023,Defender,West Ham United Women,1291,540,751,France,16,6,10,1,0,1,0,0,0,0,0,3,2,1,23,8,15,4,1,0,0,0,0,0,0,0
+Hayley Ladd,30,2022/2023,Midfielder,Manchester United Women,1702,885,817,Wales,21,11,10,4,3,1,2,1,1,0,0,13,8,5,10,4,6,2,0,0,0,0,0,0,0,0
+Hayley Raso,29,2022/2023,Forward,Manchester City Women,302,134,168,Australia,16,9,7,1,1,0,0,0,0,0,0,3,1,2,2,0,2,1,0,0,0,0,0,0,0,0
+Honoka Hayashi,25,2022/2023,Midfielder,West Ham United Women,1518,792,726,Japan,21,11,10,1,0,1,0,0,0,0,0,5,4,1,27,10,17,1,0,0,0,0,0,0,0,0
+Isibeal Atkinson,22,2022/2023,Forward,West Ham United Women,346,170,176,Republic of Ireland,15,7,8,1,1,0,1,0,1,0,0,2,2,0,9,3,6,0,0,0,0,0,0,0,0,0
+Isobel Christiansen,32,2022/2023,Midfielder,Everton Women,572,248,324,England,20,10,10,0,0,0,1,1,0,0,0,7,2,5,8,3,5,0,0,0,0,0,0,0,0,0
+Izzy Atkinson,22,2022/2023,Forward,West Ham United Women,31,31,0,Republic of Ireland,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jacqueline Burns,26,2022/2023,Goalkeeper,Reading Women,875,450,425,Northern Ireland,10,5,5,0,0,0,0,0,0,0,0,1,1,0,19,6,13,1,1,0,0,34,10.6,0.2,0.8,53
+Jade Moore,32,2022/2023,Midfielder,Reading Women,674,332,342,England,12,5,7,0,0,0,0,0,0,0,0,3,1,2,19,9,10,2,0,0,0,0,0,0,0,0
+Janina Leitzig,24,2022/2023,Goalkeeper,Leicester City WFC,1170,540,630,Germany,13,6,7,0,0,0,0,0,0,0,0,5,3,2,22,5,17,0,0,0,0,88,22,0.25,0.75,88
+Jasmine Matthews,30,2022/2023,Defender,Liverpool Women,1638,866,772,England,20,10,10,0,0,0,0,0,0,0,0,3,2,1,33,10,23,1,0,0,0,0,0,0,0,0
+Jayde Yuk Fun Riviere,22,2022/2023,Forward,Manchester United Women,4,4,0,Canada,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jelena Canković,28,2022/2023,Midfielder,Chelsea Women,629,367,262,Serbia,14,6,8,4,3,1,2,0,2,0,0,6,2,4,5,3,2,0,0,0,1,0,0,0,0,0
+Jemma Elizabeth Purfield,26,2022/2023,Forward,Leicester City WFC,978,497,481,England,15,7,8,0,0,0,0,0,0,0,0,2,1,1,24,15,9,0,0,0,0,0,0,0,0,0
+Jennifer Beattie,32,2022/2023,Defender,Arsenal Women,585,245,340,Scotland,13,6,7,0,0,0,0,0,0,0,0,7,3,4,5,2,3,0,0,0,0,0,0,0,0,0
+Jessica Carter,25,2022/2023,Midfielder,Chelsea Women,920,471,449,England,17,9,8,2,1,1,1,1,0,0,0,10,5,5,6,2,4,0,0,0,0,0,0,0,0,0
+Jessica Ngunga,23,2022/2023,Forward,Tottenham Hotspur Women,627,197,430,England,15,7,8,2,0,2,0,0,0,0,0,2,1,1,17,6,11,2,0,0,1,0,0,0,0,0
+Jessica Park,21,2022/2023,Midfielder,Everton Women,1397,692,705,England,17,8,9,3,1,2,4,1,3,0,0,7,2,5,17,11,6,0,0,0,0,0,0,0,0,0
+Jessica Sigsworth,29,2022/2023,Forward,Leicester City WFC,8,8,0,England,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jessica Ziu,21,2022/2023,Forward,West Ham United Women,170,149,21,Republic of Ireland,3,2,1,0,0,0,1,1,0,0,0,1,1,0,2,2,0,1,0,0,0,0,0,0,0,0
+Jessie Fleming,25,2022/2023,Midfielder,Chelsea Women,1207,674,533,Canada,20,11,9,3,1,2,1,1,0,0,0,11,6,5,6,3,3,1,0,0,1,0,0,0,0,0
+Jodie Taylor,37,2022/2023,Forward,Arsenal Women,310,135,175,England,8,3,5,0,0,0,1,1,0,0,0,2,1,1,3,2,1,1,0,0,0,0,0,0,0,0
+Johanna Rytting-Kaneryd,26,2022/2023,Midfielder,Chelsea Women,868,366,502,Sweden,20,9,11,1,1,0,3,2,1,0,0,9,4,5,5,3,2,0,0,0,0,0,0,0,0,0
+Jordan Nobbs,30,2022/2023,Midfielder,Aston Villa Ladies,1147,596,551,England,20,11,9,6,1,5,0,0,0,0,0,8,4,4,13,7,6,2,0,1,1,0,0,0,0,0
+Jorja Fox,20,2022/2023,Defender,Brighton & Hove Albion Women,1178,457,721,England,17,8,9,1,0,1,0,0,0,0,0,1,1,0,42,19,23,0,0,0,0,0,0,0,0,0
+Josie Green,30,2022/2023,Midfielder,Leicester City WFC,985,435,550,Wales,15,7,8,1,1,0,1,0,1,0,0,3,2,1,22,6,16,1,0,0,0,0,0,0,0,0
+Julia Zigiotti-Olme,25,2022/2023,Forward,Brighton & Hove Albion Women,1674,878,796,Sweden,20,10,10,2,1,1,1,0,1,0,0,1,1,0,55,29,26,4,0,0,0,0,0,0,0,0
+Julie Blakstad,22,2022/2023,Midfielder,Manchester City Women,230,116,114,Norway,9,4,5,2,1,1,1,1,0,0,0,5,2,3,1,0,1,0,0,0,0,0,0,0,0,0
+Justine Vanhaevermaet,31,2022/2023,Midfielder,Reading Women,1514,832,682,Belgium,20,11,9,4,2,2,0,0,0,1,0,1,1,0,45,20,25,2,0,0,1,0,0,0,0,0
+Kadiesha Buchanan,27,2022/2023,Defender,Chelsea Women,1268,548,720,Canada,16,8,8,0,0,0,0,0,0,0,0,7,5,2,12,3,9,2,0,0,0,0,0,0,0,0
+Karen Holmgaard,24,2022/2023,Defender,Everton Women,1237,586,651,Denmark,19,10,9,1,1,0,2,2,0,0,0,6,2,4,25,13,12,1,0,0,0,0,0,0,0,0
+Kate Longhurst,34,2022/2023,Midfielder,West Ham United Women,1370,618,752,England,21,10,11,0,0,0,0,0,0,0,0,4,3,1,32,13,19,3,0,0,0,0,0,0,0,0
+Katerina Svitková,27,2022/2023,Forward,Chelsea Women,85,76,9,Czech Republic,3,2,1,0,0,0,1,1,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Kathrine Møller Kühl,20,2022/2023,Midfielder,Arsenal Women,450,203,247,Denmark,11,5,6,0,0,0,0,0,0,0,0,4,3,1,5,1,4,0,0,0,0,0,0,0,0,0
+Katie McCabe,28,2022/2023,Midfielder,Arsenal Women,1674,909,765,Republic of Ireland,21,11,10,3,1,2,4,3,1,0,2,11,6,5,12,7,5,7,0,0,0,0,0,0,0,0
+Katie Startup,24,2022/2023,Goalkeeper,Brighton & Hove Albion Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Katie Stengel,31,2022/2023,Forward,Liverpool Women,1793,961,832,USA,21,11,10,9,3,6,0,0,0,2,0,3,2,1,31,12,19,0,0,0,3,0,0,0,0,0
+Katie Zelem,27,2022/2023,Midfielder,Manchester United Women,1890,900,990,England,21,10,11,3,3,0,8,2,6,2,1,13,7,6,11,4,7,7,0,0,0,0,0,0,0,0
+Katja Snoeijs,27,2022/2023,Forward,Everton Women,1674,807,867,Netherlands,21,10,11,7,3,4,0,0,0,1,0,7,2,5,30,15,15,0,0,0,1,0,0,0,0,0
+Katrine Veje,32,2022/2023,Midfielder,Everton Women,1017,522,495,Denmark,14,7,7,0,0,0,0,0,0,0,0,4,1,3,23,12,11,0,0,0,0,0,0,0,0,0
+Kayleigh Green,35,2022/2023,Midfielder,Brighton & Hove Albion Women,1132,590,542,Wales,18,9,9,1,1,0,2,2,0,0,0,1,1,0,30,12,18,3,0,0,0,0,0,0,0,0
+Keira Flannery,18,2022/2023,Midfielder,West Ham United Women,27,14,13,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kenza Dali,32,2022/2023,Midfielder,Aston Villa Ladies,1812,940,872,France,21,11,10,5,4,1,8,2,6,0,0,5,1,4,34,20,14,0,0,0,0,0,0,0,0,0
+Kenzie Weir,19,2022/2023,Defender,Everton Women,3,0,3,Scotland,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kerstin Casparij,23,2022/2023,Midfielder,Manchester City Women,1162,631,531,Netherlands,17,9,8,0,0,0,3,2,1,0,0,4,1,3,10,5,5,0,0,0,0,0,0,0,0,0
+Kerys Harrop,32,2022/2023,Defender,Tottenham Hotspur Women,1179,684,495,England,15,8,7,0,0,0,1,0,1,0,0,1,1,0,28,17,11,2,0,0,0,0,0,0,0,0
+Khadija Monifa Shaw,26,2022/2023,Midfielder,Manchester City Women,1905,961,944,Jamaica,22,11,11,20,10,10,7,4,3,1,0,6,2,4,20,8,12,0,0,1,5,0,0,0,0,0
+Khiara Keating,19,2022/2023,Goalkeeper,Manchester City Women,226,180,46,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,9,4.34,0.31,0.69,14
+Kim Little,33,2022/2023,Midfielder,Arsenal Women,936,486,450,Scotland,11,6,5,4,3,1,2,0,2,3,1,7,4,3,5,2,3,0,0,0,0,0,0,0,0,0
+Kirstie Levell,26,2022/2023,Goalkeeper,Leicester City WFC,630,360,270,England,7,4,3,0,0,0,0,0,0,0,0,0,0,0,13,9,4,0,0,0,0,21,7.77,0.21,0.79,37
+Kirsty Hanson,25,2022/2023,Forward,Aston Villa Ladies,1683,798,885,Scotland,20,10,10,7,3,4,9,3,6,0,0,6,1,5,29,19,10,4,0,0,1,0,0,0,0,0
+Kirsty Smith,29,2022/2023,Defender,West Ham United Women,1673,916,757,Scotland,22,11,11,0,0,0,2,0,2,0,0,5,4,1,36,15,21,0,0,0,0,0,0,0,0,0
+Kit Graham,27,2022/2023,Forward,Tottenham Hotspur Women,310,118,192,England,9,5,4,1,1,0,1,1,0,0,0,1,1,0,10,4,6,0,0,0,0,0,0,0,0,0
+Kyah Simon,32,2022/2023,Forward,Tottenham Hotspur Women,93,0,93,Australia,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0
+Laia Aleixandri López,23,2022/2023,Defender,Manchester City Women,1305,620,685,Spain,16,7,9,0,0,0,0,0,0,0,0,6,2,4,14,4,10,1,0,0,0,0,0,0,0,0
+Laura Brown,20,2022/2023,Midfielder,Aston Villa Ladies,1339,741,598,England,21,10,11,0,0,0,0,0,0,0,0,6,1,5,28,18,10,2,0,0,0,0,0,0,0,0
+Laura Coombs,32,2022/2023,Midfielder,Manchester City Women,1693,819,874,England,22,11,11,5,3,2,4,1,3,0,0,6,2,4,20,7,13,0,0,0,1,0,0,0,0,0
+Laura Wienroither,24,2022/2023,Defender,Arsenal Women,972,631,341,Austria,17,9,8,1,1,0,0,0,0,0,0,9,5,4,4,3,1,0,0,0,0,0,0,0,0,0
+Lauren Hemp,23,2022/2023,Forward,Manchester City Women,1686,829,857,England,20,10,10,7,5,2,6,6,0,0,0,6,2,4,21,9,12,2,0,0,0,0,0,0,0,0
+Lauren James,22,2022/2023,Midfielder,Chelsea Women,1205,561,644,England,18,9,9,5,3,2,2,2,0,0,1,9,6,3,10,2,8,1,0,0,1,0,0,0,0,0
+Lauren Wade,29,2022/2023,Midfielder,Reading Women,600,146,454,Northern Ireland,15,5,10,1,0,1,0,0,0,0,0,1,1,0,18,1,17,0,0,0,0,0,0,0,0,0
+Leah Galton,29,2022/2023,Forward,Manchester United Women,1641,808,833,England,20,10,10,10,4,6,4,3,1,0,0,12,7,5,10,4,6,0,0,0,1,0,0,0,0,0
+Leah Lane,18,2022/2023,Forward,Brighton & Hove Albion Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leah Williamson,26,2022/2023,Midfielder,Arsenal Women,822,507,315,England,12,7,5,1,1,0,1,0,1,0,0,6,5,1,5,2,3,0,0,0,0,0,0,0,0,0
+Leanne Kiernan,24,2022/2023,Forward,Liverpool Women,89,57,32,Republic of Ireland,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+Leigh-Anne Robe,29,2022/2023,Defender,Liverpool Women,545,195,350,England,11,4,7,0,0,0,0,0,0,0,0,1,0,1,10,2,8,0,0,0,0,0,0,0,0,0
+Leila Ouahabi El Ouahabi,30,2022/2023,Defender,Manchester City Women,886,487,399,Spain,16,8,8,0,0,0,0,0,0,0,0,4,1,3,10,5,5,3,0,0,0,0,0,0,0,0
+Lenna Gunning-Williams,18,2022/2023,Forward,Tottenham Hotspur Women,0,0,0,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leonie Maier,31,2022/2023,Defender,Everton Women,74,32,42,Germany,9,4,5,1,0,1,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Lia Wälti,30,2022/2023,Midfielder,Arsenal Women,1419,852,567,Switzerland,18,10,8,1,0,1,0,0,0,0,0,9,6,3,8,5,3,1,0,0,0,0,0,0,0,0
+Lina Hurtig,28,2022/2023,Midfielder,Arsenal Women,272,160,112,Sweden,9,5,4,0,0,0,0,0,0,0,0,6,3,3,0,0,0,0,0,0,0,0,0,0,0,0
+Lisa Evans,31,2022/2023,Forward,West Ham United Women,1415,724,691,Scotland,22,11,11,3,2,1,2,2,0,0,0,5,4,1,34,13,21,1,0,0,0,0,0,0,0,0
+Lisa Fjeldstad Naalsund,28,2022/2023,Midfielder,Manchester United Women,3,0,3,Norway,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Lucía García Córdoba,25,2022/2023,Forward,Manchester United Women,756,368,388,Spain,20,9,11,8,5,3,1,0,1,0,0,13,7,6,2,0,2,1,0,0,1,0,0,0,0,0
+Lucy Graham,27,2022/2023,Midfielder,Everton Women,1565,745,820,Scotland,20,10,10,2,0,2,1,0,1,0,0,7,2,5,20,11,9,2,0,0,0,0,0,0,0,0
+Lucy Parker,24,2022/2023,Defender,West Ham United Women,1085,544,541,England,14,7,7,0,0,0,0,0,0,0,0,3,3,0,22,9,13,4,0,0,0,0,0,0,0,0
+Lucy Staniforth,31,2022/2023,Midfielder,Aston Villa Ladies,1238,601,637,England,17,8,9,1,0,1,1,1,0,0,0,7,2,5,17,10,7,2,0,0,0,0,0,0,0,0
+Lydia Williams,35,2022/2023,Goalkeeper,Brighton & Hove Albion Women,630,270,360,Australia,7,3,4,0,0,0,0,0,0,0,0,0,0,0,21,12,9,0,0,0,0,20,14.76,0.36,0.64,41
+Mackenzie Arnold,29,2022/2023,Goalkeeper,West Ham United Women,1790,890,900,Australia,20,10,10,0,0,0,0,0,0,0,0,5,4,1,32,11,21,1,0,0,0,68,28.35,0.27,0.73,105
+Madison Earl,16,2022/2023,Midfielder,Arsenal Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Magdalena Ericsson,30,2022/2023,Defender,Chelsea Women,1579,772,807,Sweden,20,10,10,1,1,0,0,0,0,0,0,11,6,5,12,5,7,0,0,0,0,0,0,0,0,0
+Maisie Symonds,20,2022/2023,Midfielder,Brighton & Hove Albion Women,140,78,62,England,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Mana Iwabuchi,30,2022/2023,Forward,Tottenham Hotspur Women,540,250,290,Japan,13,5,8,0,0,0,1,1,0,0,0,3,1,2,11,5,6,0,0,0,0,0,0,0,0,0
+Manuela Zinsberger,27,2022/2023,Goalkeeper,Arsenal Women,1620,720,900,Austria,18,8,10,0,0,0,0,0,0,0,0,10,5,5,11,4,7,0,0,0,0,40,13.25,0.25,0.75,53
+Maren Mjelde,33,2022/2023,Defender,Chelsea Women,513,356,157,Norway,7,5,2,1,1,0,0,0,0,1,0,5,4,1,3,1,2,0,0,0,0,0,0,0,0,0
+Maria Thorisdottir,30,2022/2023,Defender,Manchester United Women,290,110,180,Norway,5,3,2,0,0,0,0,0,0,0,0,4,2,2,2,2,0,0,0,0,0,0,0,0,0,0
+María Victoria Losada Gómez,32,2022/2023,Midfielder,Manchester City Women,15,0,15,Spain,2,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Martha Thomas,27,2022/2023,Forward,Manchester United Women,389,241,148,USA,20,10,10,1,1,0,2,2,0,0,0,12,7,5,1,1,0,0,0,0,0,0,0,0,0,0
+Mary Earps,30,2022/2023,Goalkeeper,Manchester United Women,1980,990,990,England,22,11,11,0,0,0,0,0,0,0,0,14,8,6,11,4,7,0,0,0,0,46,12.18,0.21,0.79,58
+Mary Fowler,20,2022/2023,Forward,Manchester City Women,154,43,111,Australia,11,4,7,1,1,0,1,0,1,0,0,3,0,3,3,1,2,0,0,0,0,0,0,0,0,0
+Mary Mcateer,19,2022/2023,Midfielder,Aston Villa Ladies,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mayumi Pacheco,25,2022/2023,Defender,Aston Villa Ladies,1961,971,990,England,22,11,11,0,0,0,3,2,1,0,0,6,1,5,34,20,14,2,0,0,0,0,0,0,0,0
+Megan Campbell,30,2022/2023,Defender,Liverpool Women,1091,653,438,Republic of Ireland,16,8,8,0,0,0,1,0,1,0,0,3,2,1,21,8,13,2,0,0,0,0,0,0,0,0
+Megan Connolly,26,2022/2023,Midfielder,Brighton & Hove Albion Women,1100,470,630,Republic of Ireland,13,6,7,0,0,0,1,1,0,0,0,1,1,0,28,14,14,2,0,0,0,0,0,0,0,0
+Megan Finnigan,25,2022/2023,Midfielder,Everton Women,1191,693,498,England,16,10,6,2,1,1,0,0,0,0,0,5,2,3,23,12,11,0,0,0,0,0,0,0,0,0
+Megan Shaw,18,2022/2023,Midfielder,Aston Villa Ladies,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Megan Walsh,28,2022/2023,Goalkeeper,Brighton & Hove Albion Women,1350,720,630,England,15,8,7,0,0,0,0,0,0,0,0,1,1,0,39,19,20,0,0,0,0,53,27.55,0.29,0.71,95
+Melanie Leupolz,29,2022/2023,Midfielder,Chelsea Women,453,341,112,Germany,7,4,3,0,0,0,0,0,0,0,0,3,2,1,4,1,3,1,0,0,0,0,0,0,0,0
+Melissa Lawley,29,2022/2023,Forward,Liverpool Women,1020,590,430,England,13,8,5,0,0,0,3,0,3,0,0,2,2,0,21,7,14,2,0,0,0,0,0,0,0,0
+Michelle Agyemang,17,2022/2023,Forward,Arsenal Women,13,0,13,England,2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Millie Bright,30,2022/2023,Midfielder,Chelsea Women,1231,622,609,England,14,7,7,1,1,0,1,1,0,0,0,5,3,2,10,4,6,0,0,0,0,0,0,0,0,0
+Millie Turner,27,2022/2023,Midfielder,Manchester United Women,1796,893,903,England,22,11,11,2,0,2,0,0,0,0,0,14,8,6,9,4,5,1,0,0,0,0,0,0,0,0
+Miriael Taylor,23,2022/2023,Midfielder,Liverpool Women,217,23,194,England,9,3,6,0,0,0,0,0,0,0,0,2,1,1,5,0,5,0,0,0,0,0,0,0,0,0
+Molly Bartrip,27,2022/2023,Defender,Tottenham Hotspur Women,1958,987,971,England,22,11,11,1,0,1,3,2,1,0,0,3,2,1,45,23,22,3,0,0,0,0,0,0,0,0
+Molly Pike,22,2022/2023,Midfielder,Leicester City WFC,857,475,382,England,18,8,10,0,0,0,0,0,0,0,0,4,2,2,19,13,6,1,0,0,0,0,0,0,0,0
+Naomi Williams,18,2022/2023,Goalkeeper,Arsenal Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Natasha Dowie,35,2022/2023,Forward,Liverpool Women,1044,440,604,England,17,9,8,3,2,1,1,0,1,0,0,0,0,0,26,8,18,0,0,0,0,0,0,0,0,0
+Natasha Harding,34,2022/2023,Midfielder,Aston Villa Ladies,95,27,68,Wales,4,2,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Natasha Jane Flint,27,2022/2023,Forward,Leicester City WFC,464,283,181,England,9,5,4,1,0,1,0,0,0,0,0,0,0,0,14,11,3,0,0,0,0,0,0,0,0,0
+Nathalie Björn,26,2022/2023,Defender,Everton Women,1727,830,897,Sweden,20,10,10,0,0,0,1,0,1,0,0,6,1,5,29,16,13,4,0,0,0,0,0,0,0,0
+Niamh Charles,24,2022/2023,Forward,Chelsea Women,1342,555,787,England,21,10,11,4,1,3,3,2,1,0,0,10,5,5,9,4,5,0,0,0,0,0,0,0,0,0
+Niamh Fahey,36,2022/2023,Defender,Liverpool Women,991,516,475,Republic of Ireland,12,6,6,0,0,0,0,0,0,0,0,1,1,0,24,7,17,1,0,0,0,0,0,0,0,0
+Nicoline Sørensen,26,2022/2023,Forward,Everton Women,1068,479,589,Denmark,15,7,8,2,1,1,4,2,2,0,0,4,1,3,22,8,14,0,0,0,0,0,0,0,0,0
+Nikita Parris,29,2022/2023,Forward,Manchester United Women,1330,639,691,England,21,11,10,4,1,3,1,1,0,0,0,13,8,5,9,3,6,1,0,0,0,0,0,0,0,0
+Nikola Karczewska,24,2022/2023,Forward,Tottenham Hotspur Women,495,228,267,Poland,13,7,6,2,1,1,0,0,0,0,0,3,2,1,9,3,6,1,0,0,0,0,0,0,0,0
+Noelle Maritz,27,2022/2023,Defender,Arsenal Women,1137,452,685,Switzerland,17,7,10,0,0,0,2,0,2,0,0,8,4,4,12,4,8,1,0,0,0,0,0,0,0,0
+Olivia McLoughlin,19,2022/2023,Midfielder,Aston Villa Ladies,92,77,15,England,6,3,3,0,0,0,0,0,0,0,0,1,0,1,3,3,0,0,0,0,0,0,0,0,0,0
+Ona Batlle Pascual,24,2022/2023,Defender,Manchester United Women,1710,900,810,Spain,19,10,9,1,1,0,9,7,2,0,0,12,8,4,9,2,7,1,0,0,0,0,0,0,0,0
+Pernille Mosegaard-Harder,30,2022/2023,Forward,Chelsea Women,607,298,309,Denmark,10,5,5,8,4,4,3,3,0,1,0,6,3,3,3,1,2,0,0,0,3,0,0,0,0,0
+Poppy Pattinson,23,2022/2023,Defender,Brighton & Hove Albion Women,1539,810,729,England,21,11,10,0,0,0,1,1,0,0,0,1,1,0,50,25,25,2,0,0,0,0,0,0,0,0
+Rachael Laws,32,2022/2023,Goalkeeper,Liverpool Women,1530,900,630,England,17,10,7,0,0,0,0,0,0,0,0,3,2,1,26,11,15,1,0,0,0,46,14.91,0.21,0.79,71
+Rachel Corsie,34,2022/2023,Defender,Aston Villa Ladies,1164,468,696,Scotland,15,6,9,0,0,0,1,1,0,0,0,4,0,4,20,12,8,1,0,0,0,0,0,0,0,0
+Rachel Daly,31,2022/2023,Forward,Aston Villa Ladies,1962,990,972,England,22,11,11,22,11,11,6,3,3,3,0,6,1,5,35,21,14,2,0,2,6,0,0,0,0,0
+Rachel Furness,35,2022/2023,Midfielder,Liverpool Women,384,141,243,Northern Ireland,9,4,5,1,0,1,0,0,0,0,0,0,0,0,8,2,6,1,0,0,0,0,0,0,0,0
+Rachel Rowe,31,2022/2023,Midfielder,Reading Women,1559,807,752,Wales,18,9,9,3,3,0,1,0,1,0,0,0,0,0,42,19,23,2,0,0,1,0,0,0,0,0
+Rachel Williams,35,2022/2023,Forward,Manchester United Women,251,128,123,England,17,10,7,4,2,2,0,0,0,0,0,11,7,4,1,1,0,0,0,0,0,0,0,0,0,0
+Rafaelle Leone Carvalho Souza,32,2022/2023,Defender,Arsenal Women,1252,717,535,Brazil,16,8,8,2,1,1,0,0,0,0,0,7,5,2,10,4,6,0,0,0,0,0,0,0,0,0
+Ramona Petzelberger,30,2022/2023,Midfielder,Tottenham Hotspur Women,40,0,40,Germany,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Rebecca Jane,31,2022/2023,Defender,Reading Women,0,0,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rebecca Leigh Spencer,32,2022/2023,Goalkeeper,Tottenham Hotspur Women,990,540,450,England,11,6,5,0,0,0,0,0,0,0,0,0,0,0,22,13,9,1,0,0,0,0,15.25,0.25,0.75,61
+Rebekah Stott,30,2022/2023,Defender,Brighton & Hove Albion Women,327,147,180,New Zealand,5,2,3,0,0,0,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0,0,0,0,0,0
+Remi Allen,33,2022/2023,Midfielder,Aston Villa Ladies,167,45,122,England,3,1,2,0,0,0,0,0,0,0,0,2,0,2,1,1,0,1,0,0,0,0,0,0,0,0
+Remy Siemsen,23,2022/2023,Midfielder,Leicester City WFC,564,296,268,Australia,10,4,6,1,0,1,1,1,0,0,0,3,2,1,12,2,10,0,0,0,0,0,0,0,0,0
+Rhiannon Roberts,33,2022/2023,Defender,Liverpool Women,477,246,231,Wales,19,10,9,1,0,1,0,0,0,0,0,2,1,1,9,4,5,0,0,0,0,0,0,0,0,0
+Ria Percival,33,2022/2023,Defender,Tottenham Hotspur Women,52,18,34,New Zealand,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rikke Læntver Sevecke,27,2022/2023,Defender,Everton Women,1657,875,782,Denmark,21,11,10,1,1,0,0,0,0,0,0,6,2,4,24,13,11,1,0,0,0,0,0,0,0,0
+Risa Shimizu,27,2022/2023,Defender,West Ham United Women,1897,990,907,Japan,22,11,11,0,0,0,0,0,0,0,0,5,4,1,40,17,23,0,0,0,0,0,0,0,0,0
+Rosella Ayane,27,2022/2023,Forward,Tottenham Hotspur Women,1097,519,578,England,19,9,10,1,0,1,4,1,3,0,0,2,1,1,23,12,11,1,0,0,0,0,0,0,0,0
+Ruby Doe,18,2022/2023,Midfielder,Arsenal Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ruby Mace,20,2022/2023,Defender,Leicester City WFC,917,377,540,England,11,5,6,0,0,0,0,0,0,0,0,3,2,1,20,3,17,5,1,0,0,0,0,0,0,0
+Ruby-Rae Tucker,17,2022/2023,Forward,Aston Villa Ladies,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ruesha Littlejohn,33,2022/2023,Forward,Aston Villa Ladies,156,85,71,Republic of Ireland,8,2,6,0,0,0,0,0,0,0,0,2,0,2,2,2,0,2,0,0,0,0,0,0,0,0
+Sabrina D’Angelo,30,2022/2023,Goalkeeper,Arsenal Women,360,270,90,Canada,4,3,1,0,0,0,0,0,0,0,0,1,1,0,4,3,1,0,0,0,0,12,3.52,0.22,0.78,16
+Safia Middleton-Patel,19,2022/2023,Goalkeeper,Manchester United Women,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samantha Kerr,30,2022/2023,Forward,Chelsea Women,1547,703,844,Australia,21,10,11,12,6,6,5,2,3,0,0,10,5,5,11,3,8,0,0,0,1,0,0,0,0,0
+Samantha Tierney,25,2022/2023,Defender,Leicester City WFC,1850,893,957,England,21,10,11,2,2,0,2,1,1,0,0,4,2,2,42,22,20,5,0,0,0,0,0,0,0,0
+Sanne Troelsgaard-Nielsen,35,2022/2023,Midfielder,Reading Women,1144,548,596,Denmark,20,10,10,4,1,3,1,1,0,1,0,1,1,0,35,15,20,0,0,0,0,0,0,0,0,0
+Sara Holmgaard,24,2022/2023,Midfielder,Everton Women,195,158,37,Denmark,6,4,2,0,0,0,0,0,0,0,0,1,1,0,7,6,1,0,0,0,0,0,0,0,0,0
+Sarah Emma Mayling,26,2022/2023,Forward,Aston Villa Ladies,1800,810,990,England,20,9,11,0,0,0,1,0,1,0,0,5,0,5,32,18,14,3,0,0,0,0,0,0,0,0
+Shanice van de Sanden,31,2022/2023,Forward,Liverpool Women,637,249,388,Netherlands,14,5,9,1,0,1,3,1,2,0,0,2,1,1,10,1,9,3,0,0,0,0,0,0,0,0
+Shannon Cooke,23,2022/2023,Defender,West Ham United Women,11,0,11,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Shelina Zadorsky,30,2022/2023,Defender,Tottenham Hotspur Women,1170,540,630,Canada,13,6,7,0,0,0,0,0,0,0,0,2,1,1,26,12,14,0,0,0,0,0,0,0,0,0
+Simone Magill,28,2022/2023,Forward,Aston Villa Ladies,96,58,38,Northern Ireland,3,1,2,0,0,0,1,1,0,0,0,2,0,2,3,3,0,1,0,0,0,0,0,0,0,0
+So-Hyun Cho,35,2022/2023,Midfielder,Tottenham Hotspur Women,316,157,159,South Korea,9,5,4,0,0,0,2,0,2,0,0,2,1,1,8,3,5,0,0,0,0,0,0,0,0,0
+Sofie Lundgaard,21,2022/2023,Midfielder,Liverpool Women,228,48,180,Denmark,12,5,7,0,0,0,0,0,0,0,0,2,1,1,5,0,5,1,0,0,0,0,0,0,0,0
+Sophie Baggaley,26,2022/2023,Goalkeeper,Manchester United Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sophie Hillyerd,20,2022/2023,Goalkeeper,West Ham United Women,190,100,90,England,3,2,1,0,0,0,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0,0,0,0,0,19
+Sophie Howard,30,2022/2023,Defender,Leicester City WFC,1870,971,899,Scotland,21,11,10,0,0,0,0,0,0,0,0,5,3,2,38,21,17,1,0,0,0,0,0,0,0,0
+Sophie Ingle,32,2022/2023,Midfielder,Chelsea Women,1341,599,742,Wales,21,10,11,2,1,1,3,0,3,0,0,11,6,5,11,4,7,1,0,0,0,0,0,0,0,0
+Steph Catley,29,2022/2023,Defender,Arsenal Women,1189,582,607,Australia,17,8,9,1,0,1,2,2,0,0,0,8,4,4,9,6,3,0,0,0,0,0,0,0,0,0
+Stephanie Houghton,35,2022/2023,Defender,Manchester City Women,1173,543,630,England,14,7,7,2,2,0,1,0,1,0,0,3,2,1,18,6,12,1,0,0,0,0,0,0,0,0
+Stina Blackstenius,27,2022/2023,Forward,Arsenal Women,1618,699,919,Sweden,22,11,11,8,3,5,0,0,0,0,0,11,6,5,14,6,8,0,0,0,1,0,0,0,0,0
+Susan Woodham Lily,23,2022/2023,Midfielder,Reading Women,1289,671,618,Wales,16,8,8,0,0,0,1,1,0,0,0,1,1,0,32,13,19,4,0,0,0,0,0,0,0,0
+Taylor Hinds,24,2022/2023,Midfielder,Liverpool Women,1872,940,932,England,22,11,11,0,0,0,2,0,2,0,0,3,2,1,35,12,23,2,0,0,0,0,0,0,0,0
+Teyah Goldie,19,2022/2023,Defender,Arsenal Women,5,0,5,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Tinaya Alexander,24,2022/2023,Forward,Reading Women,16,0,16,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tinja-Riikka Korpela,37,2022/2023,Goalkeeper,Tottenham Hotspur Women,990,450,540,Finland,11,5,6,0,0,0,0,0,0,0,0,3,2,1,23,10,13,0,0,0,0,47,15.4,0.22,0.78,70
+Veatriki Sarri,25,2022/2023,Forward,Brighton & Hove Albion Women,1442,708,734,Greece,22,11,11,3,0,3,2,1,1,0,0,1,1,0,44,23,21,3,0,0,1,0,0,0,0,0
+Victoria Pelova,24,2022/2023,Forward,Arsenal Women,908,368,540,Netherlands,12,5,7,1,0,1,3,0,3,0,0,5,3,2,10,3,7,0,0,0,0,0,0,0,0,0
+Victoria Williams,33,2022/2023,Defender,Brighton & Hove Albion Women,827,377,450,England,10,5,5,0,0,0,0,0,0,0,0,0,0,0,30,12,18,1,0,0,0,0,0,0,0,0
+Vilde Bøe Risa,28,2022/2023,Midfielder,Manchester United Women,361,185,176,Norway,12,7,5,0,0,0,1,1,0,0,0,8,5,3,1,0,1,1,0,0,0,0,0,0,0,0
+Viviane Asseyi,29,2022/2023,Forward,West Ham United Women,1946,963,983,France,22,11,11,6,5,1,3,1,2,0,0,5,4,1,41,17,24,2,0,0,2,0,0,0,0,0
+Vivianne Miedema,27,2022/2023,Forward,Arsenal Women,437,286,151,Netherlands,8,5,3,4,3,1,1,1,0,0,0,5,3,2,2,1,1,0,0,0,1,0,0,0,0,0
+Yana Daniels,31,2022/2023,Forward,Liverpool Women,743,339,404,Belgium,17,9,8,0,0,0,0,0,0,0,0,3,2,1,16,5,11,0,0,0,0,0,0,0,0,0
+Yee-Un Park,27,2022/2023,Midfielder,Brighton & Hove Albion Women,34,15,19,South Korea,4,2,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0
+Yui Hasegawa,26,2022/2023,Midfielder,Manchester City Women,1785,976,809,Japan,20,11,9,1,1,0,1,0,1,0,0,6,2,4,16,9,7,0,0,0,0,0,0,0,0,0
+Zecira Musovic,27,2022/2023,Goalkeeper,Chelsea Women,630,180,450,Sweden,7,2,5,0,0,0,0,0,0,0,0,3,1,2,6,1,5,0,0,0,0,17,4.14,0.18,0.82,23
+Zoe Morse,25,2022/2023,Defender,Brighton & Hove Albion Women,1260,630,630,USA,14,7,7,0,0,0,0,0,0,0,0,1,1,0,33,19,14,0,0,0,0,0,0,0,0,0
+Abbey-Leigh Stringer,28,2021/2022,Midfielder,West Ham United Women,1117,499,618,England,18,8,10,1,0,1,0,0,0,0,0,5,3,2,12,3,9,6,0,0,0,0,0,0,0,0
+Abbi Grant,27,2021/2022,Midfielder,Leicester City WFC,46,0,46,Scotland,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Abbie McManus,30,2021/2022,Defender,Leicester City WFC,1556,754,802,England,19,9,10,1,1,0,0,0,0,0,0,4,4,0,28,9,19,1,0,0,0,0,0,0,0,0
+Adriana Leon,31,2021/2022,Forward,West Ham United Women,971,632,339,Canada,13,8,5,2,1,1,0,0,0,0,0,3,1,2,14,9,5,0,0,0,0,0,0,0,0,0
+Aileen Whelan,32,2021/2022,Forward,Brighton & Hove Albion Women,1704,870,834,England,22,11,11,3,1,2,1,0,1,0,0,7,3,4,27,15,12,2,0,0,0,0,0,0,0,0
+Aimee Claypole,17,2021/2022,Forward,Chelsea Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Alanna Kennedy,28,2021/2022,Defender,Manchester City Women,1153,596,557,Australia,14,7,7,1,1,0,0,0,0,0,0,10,5,5,9,3,6,0,0,0,0,0,0,0,0,0
+Alessia Russo,24,2021/2022,Midfielder,Manchester United Women,1586,788,798,England,22,11,11,9,6,3,4,2,2,0,0,10,7,3,13,7,6,0,0,0,1,0,0,0,0,0
+Alex Greenwood,30,2021/2022,Defender,Manchester City Women,1928,976,952,England,22,11,11,4,3,1,3,1,2,2,0,12,6,6,19,9,10,3,0,0,0,0,0,0,0,0
+Alex Hennessy,18,2021/2022,Forward,Arsenal Women,12,0,12,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Alexandra Elena MacIver,25,2021/2022,Goalkeeper,Everton Women,1620,810,810,England,18,9,9,0,0,0,0,0,0,0,0,4,0,4,34,17,17,0,0,0,0,52,22.36,0.26,0.74,86
+Alisha Lehmann,24,2021/2022,Forward,Aston Villa Ladies,1714,958,756,Switzerland,21,11,10,2,1,1,2,1,1,1,0,4,1,3,30,15,15,1,0,0,0,0,0,0,0,0
+Alsu Abdullina,22,2021/2022,Midfielder,Chelsea Women,42,13,29,Russia,5,3,2,0,0,0,0,0,0,0,0,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0
+Amalie Vevle Eikeland,28,2021/2022,Forward,Reading Women,1727,892,835,Norway,20,10,10,2,1,1,2,1,1,0,0,7,5,2,32,13,19,1,0,0,0,0,0,0,0,0
+Angela Addison,23,2021/2022,Midfielder,Tottenham Hotspur Women,330,160,170,England,19,10,9,1,0,1,0,0,0,0,1,6,4,2,4,1,3,0,0,0,0,0,0,0,0,0
+Aniek Nouwen,24,2021/2022,Defender,Chelsea Women,979,563,416,Netherlands,14,8,6,1,0,1,0,0,0,0,0,11,7,4,2,0,2,0,0,0,0,0,0,0,0,0
+Anita Amma Ankyewah Asante,38,2021/2022,Midfielder,Aston Villa Ladies,1890,990,900,England,21,11,10,1,0,1,0,0,0,0,0,5,1,4,32,16,16,2,0,0,0,0,0,0,0,0
+Ann-Katrin Berger,33,2021/2022,Goalkeeper,Chelsea Women,1190,630,560,Germany,14,7,7,0,0,0,0,0,0,0,0,9,5,4,8,3,5,2,1,0,0,24,8.37,0.27,0.73,31
+Anna Anvegård,26,2021/2022,Midfielder,Everton Women,944,505,439,Sweden,14,7,7,4,3,1,1,1,0,0,0,2,0,2,21,11,10,0,0,0,1,0,0,0,0,0
+Anna Jessica Leat,22,2021/2022,Goalkeeper,West Ham United Women,360,90,270,New Zealand,4,1,3,0,0,0,0,0,0,0,0,2,1,1,3,0,3,0,0,0,0,19,3.3,0.15,0.85,22
+Anna Patten,24,2021/2022,Defender,Aston Villa Ladies,756,457,299,England,11,6,5,0,0,0,0,0,0,0,0,4,1,3,8,7,1,0,0,0,0,0,0,0,0,0
+Aoife Mannion,28,2021/2022,Defender,Manchester United Women,1080,630,450,England,12,7,5,0,0,0,0,0,0,0,0,6,4,2,11,9,2,0,0,0,0,0,0,0,0,0
+Ashleigh Neville,30,2021/2022,Defender,Tottenham Hotspur Women,1838,938,900,England,21,11,10,3,2,1,2,1,1,0,0,8,5,3,17,5,12,4,0,0,0,0,0,0,0,0
+Ashleigh Plumptre,25,2021/2022,Midfielder,Leicester City WFC,1741,931,810,England,20,11,9,1,1,0,1,0,1,0,0,4,4,0,40,21,19,3,0,0,0,0,0,0,0,0
+Asmita Ale,21,2021/2022,Defender,Tottenham Hotspur Women,959,360,599,England,13,4,9,1,0,1,0,0,0,0,0,7,4,3,6,0,6,3,0,0,0,0,0,0,0,0
+Aurora Galli,26,2021/2022,Midfielder,Everton Women,1443,718,725,Italy,18,9,9,1,0,1,0,0,0,0,0,3,0,3,32,19,13,0,0,0,0,0,0,0,0,0
+Bethan Roberts,20,2021/2022,Defender,Reading Women,64,63,1,England,4,3,1,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bethany England,29,2021/2022,Midfielder,Chelsea Women,870,418,452,England,20,9,11,8,6,2,4,1,3,1,0,12,6,6,6,1,5,0,0,0,2,0,0,0,0,0
+Bethany Mead,28,2021/2022,Forward,Arsenal Women,1733,802,931,England,22,11,11,11,7,4,8,5,3,0,0,15,7,8,10,6,4,1,0,0,1,0,0,0,0,0
+Brooke Cairns,20,2021/2022,Midfielder,West Ham United Women,0,0,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Brooke Chaplen,34,2021/2022,Midfielder,Reading Women,720,360,360,England,8,4,4,0,0,0,0,0,0,0,0,3,2,1,12,7,5,1,0,0,0,0,0,0,0,0
+Caitlin Foord,28,2021/2022,Forward,Arsenal Women,794,394,400,Australia,16,8,8,4,3,1,3,1,2,0,0,13,6,7,2,2,0,2,0,0,1,0,0,0,0,0
+Carlotte Wubben-Moy,24,2021/2022,Defender,Arsenal Women,1209,481,728,England,17,8,9,2,2,0,1,0,1,0,0,12,6,6,2,0,2,1,0,0,0,0,0,0,0,0
+Carly Mitchell Telford,36,2021/2022,Goalkeeper,Chelsea Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Caroline Weir,28,2021/2022,Forward,Manchester City Women,1464,716,748,Scotland,19,10,9,6,4,2,5,2,3,0,0,10,6,4,17,7,10,1,0,0,0,0,0,0,0,0
+Carrie Jones,20,2021/2022,Forward,Manchester United Women,21,21,0,Wales,3,2,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Catherine Joan Bott,28,2021/2022,Defender,Leicester City WFC,56,0,56,New Zealand,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Cecilie Sandvej,33,2021/2022,Defender,Birmingham City Women,422,360,62,Denmark,5,4,1,0,0,0,0,0,0,0,0,0,0,0,16,12,4,0,0,0,0,0,0,0,0,0
+Chantelle Boye-Hlorkah,28,2021/2022,Forward,Aston Villa Ladies,995,410,585,England,18,8,10,0,0,0,0,0,0,0,0,5,1,4,26,7,19,1,0,0,0,0,0,0,0,0
+Charlotte Devlin,25,2021/2022,Forward,Leicester City WFC,168,124,44,England,6,5,1,0,0,0,0,0,0,0,0,2,2,0,7,5,2,1,0,0,0,0,0,0,0,0
+Chioma Ubogagu,31,2021/2022,Forward,Tottenham Hotspur Women,493,253,240,USA,10,6,4,0,0,0,1,0,1,0,0,4,3,1,2,0,2,1,0,0,0,0,0,0,0,0
+Chloe Arthur,28,2021/2022,Defender,Aston Villa Ladies,979,465,514,Scotland,17,7,10,0,0,0,0,0,0,0,0,4,0,4,16,10,6,1,0,0,0,0,0,0,0,0
+Chloe Kelly,25,2021/2022,Forward,Manchester City Women,302,197,105,England,5,3,2,1,1,0,3,3,0,0,0,4,2,2,2,2,0,0,0,0,0,0,0,0,0,0
+Chloe Peplow,24,2021/2022,Midfielder,Reading Women,788,240,548,England,13,6,7,0,0,0,0,0,0,0,0,3,2,1,19,7,12,0,0,0,0,0,0,0,0,0
+Christie Murray,33,2021/2022,Midfielder,Birmingham City Women,1519,799,720,Scotland,17,9,8,1,1,0,0,0,0,1,0,3,2,1,38,13,25,0,0,0,0,0,0,0,0,0
+Claire Emslie,29,2021/2022,Forward,Everton Women,1026,511,515,Scotland,18,9,9,2,0,2,1,1,0,0,0,4,0,4,18,10,8,0,0,0,0,0,0,0,0,0
+Claudia Walker,27,2021/2022,Midfielder,West Ham United Women,1356,686,670,England,20,9,11,3,3,0,1,1,0,0,0,5,3,2,21,8,13,3,0,0,0,0,0,0,0,0
+Connie Scofield,24,2021/2022,Midfielder,Leicester City WFC,25,0,25,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Courtney Brosnan,27,2021/2022,Goalkeeper,Everton Women,360,180,180,Republic of Ireland,4,2,2,0,0,0,0,0,0,0,0,0,0,0,7,5,2,0,0,0,0,17,6,0.25,0.75,24
+Dagný Brynjarsdóttir,32,2021/2022,Midfielder,West Ham United Women,1681,901,780,Iceland,20,11,9,4,3,1,1,0,1,0,0,5,3,2,24,12,12,1,0,0,0,0,0,0,0,0
+Danielle Buet,34,2021/2022,Midfielder,Brighton & Hove Albion Women,76,76,0,England,2,2,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,0
+Danielle Carter,30,2021/2022,Forward,Brighton & Hove Albion Women,1449,675,774,England,21,11,10,2,0,2,1,0,1,0,0,7,3,4,32,14,18,2,0,0,0,0,0,0,0,0
+Danielle Turner,32,2021/2022,Midfielder,Everton Women,1726,796,930,England,21,10,11,2,1,1,0,0,0,0,0,4,0,4,37,18,19,3,0,0,0,0,0,0,0,0
+Danique Kerkdijk,27,2021/2022,Defender,Brighton & Hove Albion Women,1354,730,624,Netherlands,20,10,10,0,0,0,0,0,0,0,0,6,3,3,17,5,12,1,0,0,0,0,0,0,0,0
+Deanna Cooper,30,2021/2022,Defender,Reading Women,1313,593,720,England,17,8,9,0,0,0,0,0,0,0,0,5,3,2,26,12,14,0,0,0,0,0,0,0,0,0
+Deanne Rose,24,2021/2022,Forward,Reading Women,1680,873,807,Canada,21,11,10,4,2,2,3,2,1,0,0,7,5,2,28,13,15,1,0,0,1,0,0,0,0,0
+Demi Lambourne,27,2021/2022,Goalkeeper,Leicester City WFC,1260,720,540,England,14,8,6,0,0,0,0,0,0,0,0,4,4,0,30,15,15,0,0,0,0,46,22.33,0.29,0.71,77
+Demi Stokes,31,2021/2022,Defender,Manchester City Women,1540,804,736,England,19,10,9,1,1,0,2,1,1,0,0,11,6,5,15,7,8,1,0,0,0,0,0,0,0,0
+Diane Caldwell,35,2021/2022,Midfielder,Manchester United Women,450,90,360,Republic of Ireland,5,1,4,0,0,0,0,0,0,0,0,1,1,0,3,0,3,3,0,0,0,0,0,0,0,0
+Drew Spence,30,2021/2022,Midfielder,Chelsea Women,428,202,226,England,16,8,8,1,0,1,1,0,1,0,0,12,7,5,1,0,1,0,0,0,0,0,0,0,0,0
+Eleanor Doyle,25,2021/2022,Midfielder,Birmingham City Women,329,234,95,Republic of Ireland,12,5,7,0,0,0,0,0,0,0,0,1,1,0,8,7,1,0,0,0,0,0,0,0,0,0
+Elisha N'Dow,26,2021/2022,Defender,Aston Villa Ladies,493,220,273,England,7,3,4,0,0,0,0,0,0,0,0,1,0,1,15,4,11,0,0,0,0,0,0,0,0,0
+Ella Toone,24,2021/2022,Forward,Manchester United Women,1902,930,972,England,22,11,11,7,2,5,8,8,0,0,0,10,7,3,19,10,9,3,0,0,1,0,0,0,0,0
+Ellen White,34,2021/2022,Forward,Manchester City Women,1216,603,613,England,22,11,11,4,1,3,4,1,3,0,0,12,6,6,16,7,9,1,0,0,0,0,0,0,0,0
+Ellie Brazil,24,2021/2022,Forward,Brighton & Hove Albion Women,978,633,345,England,19,9,10,0,0,0,1,1,0,0,0,7,3,4,22,14,8,1,0,0,0,0,0,0,0,0
+Ellie Roebuck,24,2021/2022,Goalkeeper,Manchester City Women,897,540,357,England,10,6,4,0,0,0,0,0,0,0,0,8,5,3,3,2,1,1,0,0,0,9,2.4,0.2,0.8,12
+Emily Gielnik,31,2021/2022,Forward,Aston Villa Ladies,1083,539,544,Australia,15,7,8,2,0,2,0,0,0,0,0,4,1,3,23,8,15,0,0,0,0,0,0,0,0,0
+Emily Ramsey,22,2021/2022,Goalkeeper,Birmingham City Women,1286,656,630,England,15,8,7,0,0,0,0,0,0,0,0,3,2,1,31,13,18,2,1,0,0,44,21.28,0.28,0.72,76
+Emily Simpkins,33,2021/2022,Midfielder,Brighton & Hove Albion Women,482,217,265,England,12,6,6,0,0,0,1,0,1,0,0,3,2,1,5,3,2,2,0,0,0,0,0,0,0,0
+Emily Whelan,21,2021/2022,Forward,Birmingham City Women,483,176,307,Republic of Ireland,19,8,11,0,0,0,0,0,0,0,0,1,0,1,12,4,8,0,0,0,0,0,0,0,0,0
+Emma Koivisto,29,2021/2022,Midfielder,Brighton & Hove Albion Women,1909,919,990,Finland,22,11,11,3,1,2,0,0,0,0,0,7,3,4,36,16,20,1,0,0,0,0,0,0,0,0
+Emma Kullberg,32,2021/2022,Defender,Brighton & Hove Albion Women,984,420,564,Sweden,13,6,7,0,0,0,0,0,0,0,0,3,1,2,22,8,14,1,0,0,0,0,0,0,0,0
+Emma Snerle,22,2021/2022,Forward,West Ham United Women,461,43,418,Denmark,8,2,6,1,0,1,1,1,0,0,0,2,1,1,5,0,5,1,0,0,0,0,0,0,0,0
+Emma Thompson,19,2021/2022,Forward,Chelsea Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Erin Cuthbert,25,2021/2022,Midfielder,Chelsea Women,1515,798,717,Scotland,20,11,9,4,2,2,4,1,3,0,0,14,8,6,9,4,5,0,0,0,0,0,0,0,0,0
+Esme Beth Morgan,22,2021/2022,Defender,Manchester City Women,105,15,90,England,2,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Esmee de Graaf,26,2021/2022,Defender,Leicester City WFC,1615,856,759,Netherlands,21,11,10,0,0,0,0,0,0,0,0,4,4,0,39,19,20,1,0,0,0,0,0,0,0,0
+Esther Morgan,21,2021/2022,Defender,Leicester City WFC,23,23,0,Wales,2,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Eveliina Summanen,25,2021/2022,Midfielder,Tottenham Hotspur Women,704,406,298,Finland,10,5,5,0,0,0,1,0,1,0,0,4,2,2,5,3,2,3,0,0,0,0,0,0,0,0
+Evie Rabjohn,18,2021/2022,Defender,Aston Villa Ladies,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Faye Bryson,26,2021/2022,Defender,Reading Women,1800,900,900,England,20,10,10,1,1,0,0,0,0,0,0,6,4,2,37,17,20,2,0,0,0,0,0,0,0,0
+Felicity Gibbons,29,2021/2022,Midfielder,Brighton & Hove Albion Women,856,345,511,England,15,7,8,0,0,0,0,0,0,0,0,6,2,4,12,6,6,0,0,0,0,0,0,0,0,0
+Filippa Angeldal,26,2021/2022,Midfielder,Manchester City Women,648,328,320,Sweden,15,7,8,0,0,0,0,0,0,0,0,7,3,4,14,7,7,0,0,0,0,0,0,0,0,0
+Frances Angel,19,2021/2022,Goalkeeper,Brighton & Hove Albion Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Frances Stenson,22,2021/2022,Goalkeeper,Arsenal Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Francesca Kirby,30,2021/2022,Forward,Chelsea Women,861,519,342,England,13,7,6,6,4,2,6,4,2,0,0,9,6,3,3,1,2,0,0,0,1,0,0,0,0,0
+Frida Maanum,24,2021/2022,Midfielder,Arsenal Women,978,479,499,Norway,21,11,10,3,3,0,0,0,0,0,0,14,7,7,7,4,3,0,0,0,1,0,0,0,0,0
+Ga-Eul Jeon,35,2021/2022,Midfielder,Reading Women,19,0,19,South Korea,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Gabrielle George,26,2021/2022,Defender,Everton Women,1890,990,900,England,21,11,10,0,0,0,0,0,0,0,0,3,0,3,41,22,19,5,0,0,0,0,0,0,0,0
+Gemma Evans,27,2021/2022,Forward,Reading Women,1980,990,990,Wales,22,11,11,0,0,0,1,0,1,0,0,7,5,2,38,17,21,0,0,0,0,0,0,0,0,0
+Gemma Suzanne Davison,36,2021/2022,Forward,Aston Villa Ladies,63,9,54,England,3,1,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Georgia Brougham,27,2021/2022,Defender,Leicester City WFC,723,330,393,England,11,5,6,0,0,0,0,0,0,0,0,1,1,0,22,14,8,1,0,0,0,0,0,0,0,0
+Georgia Stanway,24,2021/2022,Forward,Manchester City Women,1670,844,826,England,22,11,11,8,3,5,1,0,1,0,0,12,6,6,16,8,8,3,1,0,2,0,0,0,0,0
+Geum-Min Lee,29,2021/2022,Forward,Brighton & Hove Albion Women,1133,586,547,South Korea,16,9,7,2,2,0,1,0,1,0,0,6,2,4,18,8,10,0,0,0,0,0,0,0,0,0
+Gilly Louise Scarlett Flaherty,32,2021/2022,Defender,West Ham United Women,1710,990,720,England,19,11,8,0,0,0,2,2,0,0,0,5,3,2,25,13,12,1,0,0,0,0,0,0,0,0
+Grace Fisk,25,2021/2022,Midfielder,West Ham United Women,1350,630,720,England,16,7,9,2,2,0,0,0,0,0,0,2,2,0,24,8,16,0,0,0,0,0,0,0,0,0
+Grace Moloney,30,2021/2022,Goalkeeper,Reading Women,1755,855,900,Republic of Ireland,20,10,10,0,0,0,0,0,0,0,0,7,5,2,30,13,17,1,0,0,0,59,23.25,0.25,0.75,93
+Guro Reiten,29,2021/2022,Midfielder,Chelsea Women,1508,813,695,Norway,21,11,10,7,3,4,5,4,1,0,0,13,8,5,9,4,5,2,0,0,1,0,0,0,0,0
+Halle Houssein,18,2021/2022,Midfielder,West Ham United Women,25,7,18,England,6,3,3,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Hanna Bennison,20,2021/2022,Forward,Everton Women,1216,611,605,Sweden,22,11,11,1,1,0,2,0,2,0,0,4,0,4,26,13,13,0,0,0,0,0,0,0,0,0
+Hannah Cain,24,2021/2022,Forward,Leicester City WFC,278,63,215,England,4,1,3,0,0,0,0,0,0,0,0,0,0,0,7,1,6,0,0,0,0,0,0,0,0,0
+Hannah Hampton,22,2021/2022,Goalkeeper,Aston Villa Ladies,1774,900,874,England,20,10,10,0,0,0,0,0,0,0,0,4,0,4,29,16,13,1,0,0,0,61,21.84,0.24,0.76,91
+Hannah Jayne Blundell,29,2021/2022,Defender,Manchester United Women,1766,776,990,England,21,10,11,0,0,0,5,2,3,0,0,9,6,3,19,10,9,2,0,0,0,0,0,0,0,0
+Harriet Scott,30,2021/2022,Defender,Birmingham City Women,1725,853,872,Republic of Ireland,20,10,10,0,0,0,0,0,0,0,0,3,2,1,45,18,27,2,0,0,0,0,0,0,0,0
+Hawa Cissoko,26,2021/2022,Defender,West Ham United Women,1540,805,735,France,19,9,10,0,0,0,1,1,0,0,0,4,2,2,24,13,11,6,2,0,0,0,0,0,0,0
+Hayley Ladd,30,2021/2022,Midfielder,Manchester United Women,1082,542,540,Wales,14,8,6,2,1,1,0,0,0,0,0,7,5,2,8,2,6,4,0,0,0,0,0,0,0,0
+Hayley Raso,29,2021/2022,Forward,Manchester City Women,644,248,396,Australia,13,7,6,3,2,1,3,1,2,0,0,10,5,5,2,0,2,0,0,0,1,0,0,0,0,0
+Hermoine Cull,19,2021/2022,Goalkeeper,Arsenal Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Inessa Kaagman,27,2021/2022,Midfielder,Brighton & Hove Albion Women,1490,695,795,Netherlands,20,10,10,4,1,3,3,0,3,3,0,7,3,4,29,10,19,2,0,0,0,0,0,0,0,0
+Isobel Christiansen,32,2021/2022,Midfielder,Everton Women,1702,862,840,England,20,10,10,0,0,0,2,1,1,0,2,4,0,4,36,20,16,1,0,0,0,0,0,0,0,0
+Ivana Fuso,22,2021/2022,Forward,Manchester United Women,74,58,16,Germany,7,5,2,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jackie Groenen,28,2021/2022,Midfielder,Manchester United Women,1066,538,528,Netherlands,16,9,7,0,0,0,0,0,0,0,0,8,6,2,14,7,7,1,0,0,0,0,0,0,0,0
+Jade Moore,32,2021/2022,Midfielder,Manchester United Women,38,16,22,England,3,2,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Jamie Finn,25,2021/2022,Defender,Birmingham City Women,1650,825,825,Republic of Ireland,20,10,10,0,0,0,1,1,0,0,0,3,2,1,38,15,23,1,0,0,0,0,0,0,0,0
+Janine Beckie,29,2021/2022,Forward,Manchester City Women,500,190,310,Canada,11,4,7,1,0,1,0,0,0,0,0,5,1,4,7,2,5,1,0,0,0,0,0,0,0,0
+Jemma Elizabeth Purfield,26,2021/2022,Forward,Leicester City WFC,1646,866,780,England,20,10,10,2,0,2,1,1,0,0,0,3,3,0,41,23,18,3,1,0,0,0,0,0,0,0
+Jennifer Beattie,32,2021/2022,Defender,Arsenal Women,587,224,363,Scotland,9,4,5,1,0,1,0,0,0,0,0,6,2,4,5,3,2,0,0,0,0,0,0,0,0,0
+Jessica Carter,25,2021/2022,Midfielder,Chelsea Women,1687,815,872,England,21,10,11,0,0,0,1,1,0,0,0,13,7,6,11,4,7,1,0,0,0,0,0,0,0,0
+Jessica Ngunga,23,2021/2022,Forward,Tottenham Hotspur Women,1187,641,546,England,16,8,8,2,2,0,3,1,2,0,0,6,4,2,10,3,7,1,0,0,0,0,0,0,0,0
+Jessica Park,21,2021/2022,Midfielder,Manchester City Women,707,444,263,England,13,7,6,0,0,0,0,0,0,0,0,5,3,2,9,6,3,0,0,0,0,0,0,0,0,0
+Jessica Sigsworth,29,2021/2022,Forward,Leicester City WFC,1126,630,496,England,13,7,6,2,1,1,1,1,0,1,0,2,2,0,21,11,10,4,0,0,0,0,0,0,0,0
+Jessie Fleming,25,2021/2022,Midfielder,Chelsea Women,1055,468,587,Canada,21,11,10,6,1,5,4,2,2,0,0,14,8,6,1,0,1,1,0,0,0,0,0,0,0,0
+Jiali Tang,28,2021/2022,Midfielder,Tottenham Hotspur Women,255,178,77,China,10,6,4,0,0,0,1,1,0,0,0,4,2,2,3,2,1,0,0,0,0,0,0,0,0,0
+Jill Scott,36,2021/2022,Midfielder,Aston Villa Ladies,1004,586,418,England,15,7,8,0,0,0,1,0,1,0,0,5,1,4,13,9,4,0,0,0,0,0,0,0,0,0
+Jonna Andersson,30,2021/2022,Defender,Chelsea Women,1001,595,406,Sweden,20,11,9,0,0,0,3,1,2,0,0,12,8,4,5,3,2,1,0,0,0,0,0,0,0,0
+Jordan Nobbs,30,2021/2022,Midfielder,Arsenal Women,585,310,275,England,16,8,8,2,1,1,1,1,0,0,0,10,5,5,5,2,3,1,0,0,0,0,0,0,0,0
+Jorja Fox,20,2021/2022,Defender,Chelsea Women,11,0,11,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Josie Green,30,2021/2022,Midfielder,Tottenham Hotspur Women,543,336,207,Wales,11,7,4,1,0,1,0,0,0,0,0,3,3,0,9,1,8,1,0,0,0,0,0,0,0,0
+Julia Zigiotti-Olme,25,2021/2022,Forward,Brighton & Hove Albion Women,562,210,352,Sweden,11,4,7,2,1,1,0,0,0,0,0,3,1,2,15,4,11,0,0,0,0,0,0,0,0,0
+Julie Blakstad,22,2021/2022,Midfielder,Manchester City Women,340,174,166,Norway,8,5,3,1,1,0,1,1,0,0,0,6,4,2,0,0,0,0,0,0,0,0,0,0,0,0
+Justine Vanhaevermaet,31,2021/2022,Midfielder,Reading Women,1587,921,666,Belgium,19,11,8,2,1,1,2,2,0,1,0,7,5,2,20,12,8,2,0,0,0,0,0,0,0,0
+Karima Benameur,34,2021/2022,Goalkeeper,Manchester City Women,900,360,540,France,10,4,6,0,0,0,0,0,0,0,0,3,1,2,16,7,9,0,0,0,0,16,8.58,0.26,0.74,33
+Kate Longhurst,34,2021/2022,Midfielder,West Ham United Women,1764,895,869,England,22,11,11,1,0,1,2,2,0,0,0,5,3,2,26,11,15,4,0,0,0,0,0,0,0,0
+Katerina Svitková,27,2021/2022,Forward,West Ham United Women,1546,672,874,Czech Republic,19,9,10,2,1,1,4,2,2,0,0,5,3,2,25,10,15,2,0,0,0,0,0,0,0,0
+Katie McCabe,28,2021/2022,Midfielder,Arsenal Women,1334,684,650,Republic of Ireland,20,10,10,5,3,2,6,3,3,1,0,14,7,7,8,4,4,9,1,0,0,0,0,0,0,0
+Katie Startup,24,2021/2022,Goalkeeper,Brighton & Hove Albion Women,180,0,180,England,2,0,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,8,1.89,0.21,0.79,9
+Katie Zelem,27,2021/2022,Midfielder,Manchester United Women,1977,987,990,England,22,11,11,5,5,0,5,2,3,2,0,10,7,3,19,10,9,1,0,0,1,0,0,0,0,0
+Kayleigh Green,35,2021/2022,Midfielder,Brighton & Hove Albion Women,909,501,408,Wales,18,9,9,4,3,1,1,0,1,0,0,4,2,2,24,13,11,2,0,1,1,0,0,0,0,0
+Keira Barry,18,2021/2022,Forward,Manchester United Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Keira Walsh,26,2021/2022,Midfielder,Manchester City Women,1512,824,688,England,18,10,8,1,0,1,3,2,1,0,0,11,6,5,11,7,4,1,0,0,0,0,0,0,0,0
+Kenza Dali,32,2021/2022,Midfielder,Everton Women,1271,655,616,France,20,11,9,0,0,0,2,1,1,0,0,4,0,4,24,14,10,1,0,0,0,0,0,0,0,0
+Kenzie Weir,19,2021/2022,Defender,Everton Women,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kerys Harrop,32,2021/2022,Defender,Tottenham Hotspur Women,1514,720,794,England,19,8,11,1,0,1,0,0,0,0,0,6,3,3,15,4,11,1,0,0,0,0,0,0,0,0
+Khadija Monifa Shaw,26,2021/2022,Midfielder,Manchester City Women,795,404,391,Jamaica,17,9,8,9,5,4,3,1,2,0,0,9,5,4,5,3,2,0,0,1,1,0,0,0,0,0
+Khiara Keating,19,2021/2022,Goalkeeper,Manchester City Women,183,90,93,England,3,1,2,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,5,0.96,0.16,0.84,6
+Kim Little,33,2021/2022,Midfielder,Arsenal Women,1791,884,907,Scotland,22,11,11,6,4,2,0,0,0,1,0,15,7,8,8,4,4,0,0,0,3,0,0,0,0,0
+Kirstie Levell,26,2021/2022,Goalkeeper,Leicester City WFC,630,270,360,England,7,3,4,0,0,0,0,0,0,0,0,0,0,0,16,9,7,0,0,0,0,30,11.27,0.23,0.77,49
+Kirsty Hanson,25,2021/2022,Forward,Manchester United Women,723,436,287,Scotland,17,9,8,1,1,0,1,1,0,0,0,6,5,1,12,8,4,1,0,0,0,0,0,0,0,0
+Kirsty Smith,29,2021/2022,Defender,Manchester United Women,189,189,0,Scotland,3,3,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Kit Graham,27,2021/2022,Forward,Tottenham Hotspur Women,537,309,228,England,8,4,4,2,1,1,0,0,0,0,0,3,2,1,3,1,2,1,0,0,0,0,0,0,0,0
+Kyah Simon,32,2021/2022,Forward,Tottenham Hotspur Women,926,435,491,Australia,14,6,8,3,2,1,1,0,1,1,0,3,1,2,9,2,7,3,0,0,1,0,0,0,0,0
+Laura Brown,20,2021/2022,Midfielder,Aston Villa Ladies,649,398,251,England,10,7,3,0,0,0,1,1,0,0,0,2,1,1,12,5,7,0,0,0,0,0,0,0,0,0
+Laura Coombs,32,2021/2022,Midfielder,Manchester City Women,633,261,372,England,16,8,8,4,2,2,1,1,0,0,0,8,4,4,6,2,4,0,0,0,0,0,0,0,0,0
+Laura Wienroither,24,2021/2022,Defender,Arsenal Women,359,231,128,Austria,8,5,3,0,0,0,0,0,0,0,0,6,3,3,3,3,0,1,0,0,0,0,0,0,0,0
+Lauren Hemp,23,2021/2022,Forward,Manchester City Women,1737,903,834,England,22,11,11,10,6,4,6,6,0,0,0,12,6,6,18,9,9,1,0,0,0,0,0,0,0,0
+Lauren James,22,2021/2022,Midfielder,Chelsea Women,107,50,57,England,6,3,3,1,0,1,0,0,0,0,0,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0
+Léa Cordier,21,2021/2022,Defender,Brighton & Hove Albion Women,0,0,0,Belgium,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leah Galton,29,2021/2022,Forward,Manchester United Women,1706,921,785,England,21,11,10,8,5,3,3,2,1,0,0,10,7,3,16,9,7,0,0,0,2,0,0,0,0,0
+Leah Williamson,26,2021/2022,Midfielder,Arsenal Women,1455,763,692,England,18,9,9,2,2,0,3,2,1,0,0,13,6,7,6,5,1,1,0,0,0,0,0,0,0,0
+Leonie Maier,31,2021/2022,Defender,Everton Women,1093,530,563,Germany,15,7,8,1,1,0,0,0,0,0,0,4,0,4,19,11,8,0,0,0,0,0,0,0,0,0
+Lia Wälti,30,2021/2022,Midfielder,Arsenal Women,1589,789,800,Switzerland,20,10,10,0,0,0,3,1,2,0,0,14,6,8,8,6,2,2,0,0,0,0,0,0,0,0
+Libby Smith,21,2021/2022,Forward,Birmingham City Women,1234,624,610,England,20,10,10,2,1,1,1,0,1,0,0,3,2,1,34,12,22,2,0,0,0,0,0,0,0,0
+Lisa Evans,31,2021/2022,Forward,West Ham United Women,1052,486,566,Scotland,16,8,8,1,1,0,3,2,1,0,0,3,2,1,14,5,9,0,0,0,0,0,0,0,0,0
+Lisa Robertson,31,2021/2022,Defender,Birmingham City Women,1184,627,557,Scotland,16,9,7,0,0,0,0,0,0,0,0,1,0,1,30,15,15,6,0,0,0,0,0,0,0,0
+Lois Joel,24,2021/2022,Defender,West Ham United Women,105,67,38,England,10,5,5,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Louise Quinn,33,2021/2022,Defender,Birmingham City Women,1980,990,990,Republic of Ireland,22,11,11,5,2,3,0,0,0,0,0,3,2,1,49,20,29,0,0,0,1,0,0,0,0,0
+Luana Zajmi,21,2021/2022,Midfielder,Leicester City WFC,0,0,0,Albania,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lucy Bronze,31,2021/2022,Defender,Manchester City Women,1149,630,519,England,13,7,6,0,0,0,2,2,0,0,0,10,5,5,3,2,1,0,0,0,0,0,0,0,0,0
+Lucy Graham,27,2021/2022,Midfielder,Everton Women,901,379,522,Scotland,16,9,7,0,0,0,0,0,0,0,0,3,0,3,15,7,8,2,0,0,0,0,0,0,0,0
+Lucy Parker,24,2021/2022,Defender,West Ham United Women,836,472,364,England,14,7,7,0,0,0,0,0,0,0,0,4,2,2,11,7,4,1,0,0,0,0,0,0,0,0
+Lucy Quinn,30,2021/2022,Forward,Birmingham City Women,1672,878,794,England,22,11,11,1,0,1,3,1,2,0,0,3,2,1,43,17,26,1,0,0,0,0,0,0,0,0
+Lucy Staniforth,31,2021/2022,Midfielder,Manchester United Women,570,302,268,England,12,6,6,2,2,0,0,0,0,0,0,6,3,3,8,6,2,2,0,0,0,0,0,0,0,0
+Lucy Whipp,27,2021/2022,Forward,Birmingham City Women,528,159,369,England,11,4,7,0,0,0,0,0,0,0,0,0,0,0,13,4,9,0,0,0,0,0,0,0,0,0
+Lydia Williams,35,2021/2022,Goalkeeper,Arsenal Women,180,180,0,Australia,2,2,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+Mackenzie Arnold,29,2021/2022,Goalkeeper,West Ham United Women,1620,900,720,Australia,18,10,8,0,0,0,0,0,0,0,0,3,2,1,27,13,14,0,0,0,0,67,19.74,0.21,0.79,94
+Maéva Jocelyne Clémaron,30,2021/2022,Midfielder,Tottenham Hotspur Women,1742,813,929,France,21,10,11,0,0,0,0,0,0,0,0,8,5,3,16,3,13,7,0,0,0,0,0,0,0,0
+Magdalena Ericsson,30,2021/2022,Defender,Chelsea Women,1254,613,641,Sweden,16,7,9,1,0,1,0,0,0,0,0,9,4,5,9,4,5,1,0,0,0,0,0,0,0,0
+Maisie Symonds,20,2021/2022,Midfielder,Brighton & Hove Albion Women,358,268,90,England,16,10,6,1,1,0,2,2,0,0,0,5,3,2,7,6,1,2,0,0,0,0,0,0,0,0
+Mana Iwabuchi,30,2021/2022,Forward,Arsenal Women,488,308,180,Japan,11,6,5,1,0,1,1,1,0,0,0,7,4,3,5,3,2,1,0,0,0,0,0,0,0,0
+Manuela Zinsberger,27,2021/2022,Goalkeeper,Arsenal Women,1800,810,990,Austria,20,9,11,0,0,0,0,0,0,0,0,13,5,8,10,6,4,0,0,0,0,41,8.67,0.17,0.83,51
+Maren Mjelde,33,2021/2022,Defender,Chelsea Women,52,12,40,Norway,4,1,3,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,0,0,0,0
+Maria Thorisdottir,30,2021/2022,Defender,Manchester United Women,1639,844,795,Norway,20,11,9,1,0,1,0,0,0,0,0,9,7,2,19,10,9,1,0,0,0,0,0,0,0,0
+María Victoria Losada Gómez,32,2021/2022,Midfielder,Manchester City Women,590,252,338,Spain,12,5,7,3,0,3,1,0,1,0,0,6,2,4,5,2,3,0,0,0,0,0,0,0,0,0
+Marie Hourihan,36,2021/2022,Goalkeeper,Birmingham City Women,630,270,360,Republic of Ireland,7,3,4,0,0,0,0,0,0,0,0,0,0,0,16,5,11,0,0,0,0,22,12.09,0.31,0.69,39
+Marisa Ewers,34,2021/2022,Defender,Aston Villa Ladies,217,72,145,Germany,5,3,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,0
+Martha Harris,29,2021/2022,Defender,Manchester United Women,10,10,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Martha Thomas,27,2021/2022,Forward,Manchester United Women,900,401,499,USA,18,8,10,5,3,2,2,1,1,0,0,9,7,2,8,1,7,0,0,0,0,0,0,0,0,0
+Mary Earps,30,2021/2022,Goalkeeper,Manchester United Women,1980,990,990,England,22,11,11,0,0,0,0,0,0,0,0,10,7,3,19,10,9,0,0,0,0,40,16.38,0.26,0.74,63
+Mayumi Pacheco,25,2021/2022,Defender,Aston Villa Ladies,1980,990,990,England,22,11,11,0,0,0,0,0,0,0,0,5,1,4,37,16,21,3,0,0,0,0,0,0,0,0
+Meaghan Sargeant,29,2021/2022,Defender,Aston Villa Ladies,818,345,473,England,12,6,6,0,0,0,0,0,0,0,0,2,0,2,22,8,14,0,0,0,0,0,0,0,0,0
+Megan Connolly,26,2021/2022,Midfielder,Brighton & Hove Albion Women,1450,741,709,Republic of Ireland,20,10,10,0,0,0,2,1,1,0,0,6,3,3,31,15,16,1,0,0,0,0,0,0,0,0
+Megan Finnigan,25,2021/2022,Midfielder,Everton Women,1103,525,578,England,16,7,9,1,1,0,0,0,0,0,0,4,0,4,30,17,13,1,0,0,0,0,0,0,0,0
+Megan Walsh,28,2021/2022,Goalkeeper,Brighton & Hove Albion Women,1800,990,810,England,20,11,9,0,0,0,0,0,0,0,0,6,3,3,37,18,19,1,0,0,0,0,0,0,0,109
+Melanie Leupolz,29,2021/2022,Midfielder,Chelsea Women,513,180,333,Germany,7,2,5,0,0,0,1,0,1,0,0,3,1,2,5,1,4,0,0,0,0,0,0,0,0,0
+Millie Bright,30,2021/2022,Midfielder,Chelsea Women,1973,986,987,England,22,11,11,0,0,0,0,0,0,0,0,14,8,6,11,4,7,3,0,0,0,0,0,0,0,0
+Millie Turner,27,2021/2022,Midfielder,Manchester United Women,260,155,105,England,4,2,2,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0
+Molly Bartrip,27,2021/2022,Defender,Tottenham Hotspur Women,1980,990,990,England,22,11,11,0,0,0,1,1,0,0,0,8,5,3,19,5,14,2,0,0,0,0,0,0,0,0
+Molly Pike,22,2021/2022,Midfielder,Leicester City WFC,1781,860,921,England,21,10,11,0,0,0,2,2,0,0,0,4,4,0,39,17,22,0,0,0,0,0,0,0,0,0
+Natasha Dowie,35,2021/2022,Forward,Reading Women,1377,740,637,England,17,9,8,6,4,2,1,1,0,1,1,7,5,2,20,9,11,0,0,0,0,0,0,0,0,0
+Natasha Harding,34,2021/2022,Midfielder,Reading Women,1823,933,890,Wales,22,11,11,0,0,0,0,0,0,0,0,7,5,2,36,15,21,3,0,0,0,0,0,0,0,0
+Natasha Jane Flint,27,2021/2022,Forward,Leicester City WFC,1251,631,620,England,21,11,10,2,1,1,1,0,1,0,0,4,4,0,39,18,21,2,0,0,0,0,0,0,0,0
+Nathalie Björn,26,2021/2022,Defender,Everton Women,1137,649,488,Sweden,16,9,7,1,0,1,0,0,0,0,0,1,0,1,25,15,10,1,0,0,0,0,0,0,0,0
+Niamh Charles,24,2021/2022,Forward,Chelsea Women,1037,382,655,England,20,9,11,1,0,1,1,0,1,0,0,12,6,6,7,2,5,0,0,0,0,0,0,0,0,0
+Niamh Murphy,20,2021/2022,Defender,Manchester United Women,0,0,0,Scotland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nicoline Sørensen,26,2021/2022,Forward,Everton Women,96,16,80,Denmark,3,2,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0
+Nikita Parris,29,2021/2022,Forward,Arsenal Women,599,341,258,England,18,8,10,1,1,0,3,2,1,1,0,14,6,8,1,1,0,2,0,0,0,0,0,0,0,0
+Noelle Maritz,27,2021/2022,Defender,Arsenal Women,1592,759,833,Switzerland,19,9,10,0,0,0,2,2,0,0,0,13,6,7,8,4,4,3,0,0,0,0,0,0,0,0
+Olivia McLoughlin,18,2021/2022,Midfielder,Aston Villa Ladies,442,283,159,England,11,6,5,0,0,0,0,0,0,0,0,2,1,1,16,7,9,0,0,0,0,0,0,0,0,0
+Ona Batlle Pascual,24,2021/2022,Defender,Manchester United Women,1871,881,990,Spain,21,10,11,1,1,0,3,2,1,0,0,9,6,3,19,10,9,2,0,0,0,0,0,0,0,0
+Paige Bailey Gayle,21,2021/2022,Forward,Leicester City WFC,354,176,178,England,12,5,7,0,0,0,0,0,0,0,0,0,0,0,13,8,5,1,0,0,0,0,0,0,0,0
+Pernille Mosegaard-Harder,30,2021/2022,Forward,Chelsea Women,1198,616,582,Denmark,16,8,8,6,1,5,3,2,1,1,0,8,5,3,9,4,5,1,0,0,1,0,0,0,0,0
+Poppy Pattinson,23,2021/2022,Defender,Everton Women,746,414,332,England,17,9,8,0,0,0,0,0,0,0,0,3,0,3,19,11,8,0,0,0,0,0,0,0,0,0
+Poppy Soper,21,2021/2022,Goalkeeper,Chelsea Women,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rachel Corsie,34,2021/2022,Defender,Aston Villa Ladies,478,270,208,Scotland,6,3,3,0,0,0,1,0,1,0,0,2,1,1,8,2,6,1,0,0,0,0,0,0,0,0
+Rachel Rowe,31,2021/2022,Midfielder,Reading Women,939,505,434,Wales,14,6,8,1,1,0,3,3,0,0,0,3,2,1,23,11,12,1,0,0,0,0,0,0,0,0
+Rachel Williams,35,2021/2022,Forward,Tottenham Hotspur Women,1808,870,938,England,22,11,11,4,1,3,2,1,1,0,0,8,5,3,15,4,11,5,1,0,0,0,0,0,0,0
+Rafaelle Leone Carvalho Souza,32,2021/2022,Defender,Arsenal Women,398,290,108,Brazil,6,4,2,1,1,0,0,0,0,0,0,2,1,1,4,3,1,0,0,0,0,0,0,0,0,0
+Ramona Petzelberger,30,2021/2022,Midfielder,Aston Villa Ladies,1654,720,934,Germany,19,8,11,3,1,2,1,0,1,0,0,5,1,4,30,10,20,1,0,0,0,0,0,0,0,0
+Rebecca Holloway,28,2021/2022,Defender,Birmingham City Women,1467,751,716,Northern Ireland,17,9,8,0,0,0,1,1,0,0,0,1,1,0,39,17,22,1,0,0,0,0,0,0,0,0
+Rebecca Leigh Spencer,32,2021/2022,Goalkeeper,Tottenham Hotspur Women,990,540,450,England,11,6,5,0,0,0,0,0,0,0,0,5,3,2,6,2,4,0,0,0,0,16,4.56,0.19,0.81,24
+Remi Allen,32,2021/2022,Midfielder,Aston Villa Ladies,1696,796,900,England,19,9,10,3,2,1,0,0,0,0,0,5,1,4,27,12,15,2,0,0,0,0,0,0,0,0
+Ria Percival,33,2021/2022,Defender,Tottenham Hotspur Women,1513,810,703,New Zealand,17,9,8,2,1,1,2,2,0,0,0,7,4,3,11,3,8,3,0,0,0,0,0,0,0,0
+Rikke Læntver Sevecke,27,2021/2022,Defender,Everton Women,841,381,460,Denmark,11,5,6,1,1,0,0,0,0,0,0,2,0,2,14,7,7,2,0,0,0,0,0,0,0,0
+Rinsola Babajide,25,2021/2022,Forward,Brighton & Hove Albion Women,92,62,30,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Rosella Ayane,27,2021/2022,Forward,Tottenham Hotspur Women,749,304,445,England,17,8,9,1,1,0,0,0,0,1,0,4,3,1,11,2,9,3,0,0,0,0,0,0,0,0
+Ruby Mace,20,2021/2022,Defender,Manchester City Women,259,41,218,England,7,3,4,0,0,0,1,0,1,0,0,4,2,2,3,0,3,0,0,0,0,0,0,0,0,0
+Ruesha Littlejohn,33,2021/2022,Forward,Aston Villa Ladies,996,572,424,Republic of Ireland,17,10,7,0,0,0,0,0,0,0,0,4,1,3,12,7,5,4,0,0,0,0,0,0,0,0
+Safia Middleton-Patel,19,2021/2022,Goalkeeper,Leicester City WFC,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Samantha Kerr,30,2021/2022,Forward,Chelsea Women,1558,819,739,Australia,20,10,10,20,12,8,4,2,2,0,0,12,7,5,9,4,5,1,0,1,6,0,0,0,0,0
+Samantha Tierney,25,2021/2022,Defender,Leicester City WFC,1856,956,900,England,21,11,10,2,1,1,0,0,0,0,0,4,4,0,44,23,21,6,0,0,0,0,0,0,0,0
+Sanne Troelsgaard-Nielsen,35,2021/2022,Midfielder,Reading Women,892,362,530,Denmark,13,6,7,0,0,0,1,0,1,0,0,3,2,1,20,7,13,2,0,0,0,0,0,0,0,0
+Sarah Emma Mayling,26,2021/2022,Forward,Aston Villa Ladies,1875,885,990,England,21,10,11,1,1,0,1,0,1,0,0,5,1,4,34,13,21,2,0,0,0,0,0,0,0,0
+Sarah Ewens,31,2021/2022,Forward,Birmingham City Women,377,128,249,Scotland,11,5,6,0,0,0,0,0,0,0,0,1,1,0,14,6,8,0,0,0,0,0,0,0,0,0
+Shania Hayles,23,2021/2022,Midfielder,Aston Villa Ladies,413,224,189,England,13,8,5,0,0,0,0,0,0,0,0,2,1,1,12,5,7,1,0,0,0,0,0,0,0,0
+Shelina Zadorsky,30,2021/2022,Defender,Tottenham Hotspur Women,1840,975,865,Canada,21,11,10,1,1,0,0,0,0,0,0,8,5,3,18,5,13,2,0,0,0,0,0,0,0,0
+Sian Rogers,25,2021/2022,Goalkeeper,Aston Villa Ladies,206,90,116,England,3,1,2,0,0,0,0,0,0,0,0,1,1,0,8,0,8,0,0,0,0,18,5.72,0.22,0.78,26
+Signe Kallesøe Bruun,25,2021/2022,Midfielder,Manchester United Women,191,19,172,Denmark,5,2,3,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Silvana Flores Dorrel,21,2021/2022,Midfielder,Tottenham Hotspur Women,0,0,0,Mexico,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Simone Boye-Sørensen,31,2021/2022,Defender,Arsenal Women,160,97,63,Denmark,5,4,1,0,0,0,0,0,0,0,0,2,2,0,2,0,2,0,0,0,0,0,0,0,0,0
+Simone Magill,28,2021/2022,Forward,Everton Women,541,339,202,Northern Ireland,14,8,6,2,1,1,1,1,0,0,0,2,0,2,14,9,5,0,0,0,0,0,0,0,0,0
+So-Hyun Cho,35,2021/2022,Midfielder,Tottenham Hotspur Women,606,297,309,South Korea,12,5,7,0,0,0,0,0,0,0,0,3,2,1,10,4,6,0,0,0,0,0,0,0,0,0
+So-yun Ji,32,2021/2022,Midfielder,Chelsea Women,651,253,398,South Korea,12,5,7,0,0,0,5,1,4,0,0,7,4,3,5,0,5,0,0,0,0,0,0,0,0,0
+Sophie Baggaley,26,2021/2022,Goalkeeper,Manchester United Women,0,0,0,England,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sophie Barker,32,2021/2022,Midfielder,Leicester City WFC,701,318,383,England,13,5,8,0,0,0,0,0,0,0,0,1,1,0,21,10,11,0,0,0,0,0,0,0,0,0
+Sophie Harris,29,2021/2022,Goalkeeper,Leicester City WFC,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,3,1.26,0.21,0.79,6
+Sophie Howard,30,2021/2022,Defender,Leicester City WFC,1660,866,794,Scotland,21,10,11,1,1,0,0,0,0,0,0,4,4,0,42,21,21,0,0,0,0,0,0,0,0,0
+Sophie Ingle,32,2021/2022,Midfielder,Chelsea Women,1447,785,662,Wales,19,10,9,0,0,0,1,0,1,0,0,12,7,5,8,4,4,2,0,0,0,0,0,0,0,0
+Steph Catley,29,2021/2022,Defender,Arsenal Women,1291,577,714,Australia,18,9,9,1,0,1,4,4,0,0,0,14,6,8,3,2,1,0,0,0,0,0,0,0,0,0
+Stephanie Houghton,35,2021/2022,Defender,Manchester City Women,364,180,184,England,5,2,3,1,0,1,0,0,0,0,0,3,0,3,2,2,0,0,0,0,0,0,0,0,0,0
+Stina Blackstenius,27,2021/2022,Forward,Arsenal Women,632,279,353,Sweden,11,5,6,6,3,3,1,1,0,0,0,8,3,5,0,0,0,0,0,0,1,0,0,0,0,0
+Susan Woodham Lily,23,2021/2022,Midfielder,Reading Women,1758,900,858,Wales,21,10,11,0,0,0,1,1,0,0,0,6,4,2,38,17,21,3,0,0,0,0,0,0,0,0
+Tameka Butt,32,2021/2022,Midfielder,West Ham United Women,1205,750,455,Australia,16,9,7,1,1,0,0,0,0,0,0,4,2,2,21,12,9,1,0,0,0,0,0,0,0,0
+Taylor Reynolds,19,2021/2022,Midfielder,Birmingham City Women,0,0,0,Wales,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Teyah Goldie,19,2021/2022,Defender,Arsenal Women,4,4,0,England,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tinja-Riikka Korpela,37,2021/2022,Goalkeeper,Tottenham Hotspur Women,990,450,540,Finland,11,5,6,0,0,0,0,0,0,0,0,3,2,1,13,3,10,0,0,0,0,38,9.54,0.18,0.82,53
+Tobin Heath,35,2021/2022,Midfielder,Arsenal Women,292,228,64,USA,9,6,3,2,0,2,1,0,1,0,0,5,3,2,5,4,1,0,0,0,0,0,0,0,0,0
+Toni Duggan,32,2021/2022,Forward,Everton Women,1546,786,760,England,22,11,11,2,2,0,1,1,0,0,0,4,0,4,26,14,12,0,0,0,0,0,0,0,0,0
+Valérie Gauvin,27,2021/2022,Forward,Everton Women,365,142,223,France,12,7,5,0,0,0,0,0,0,0,0,2,0,2,6,1,5,0,0,0,0,0,0,0,0,0
+Veatriki Sarri,25,2021/2022,Forward,Birmingham City Women,1651,856,795,Greece,21,10,11,3,1,2,2,1,1,0,0,3,2,1,36,16,20,2,0,0,0,0,0,0,0,0
+Victoria Williams,33,2021/2022,Defender,Brighton & Hove Albion Women,1806,854,952,England,21,10,11,2,1,1,1,1,0,0,0,7,3,4,32,14,18,3,0,0,0,0,0,0,0,0
+Viktoria Schnaderbeck,32,2021/2022,Defender,Tottenham Hotspur Women,271,135,136,Austria,6,4,2,0,0,0,0,0,0,0,0,4,3,1,4,2,2,0,0,0,0,0,0,0,0,0
+Vilde Bøe Risa,28,2021/2022,Midfielder,Manchester United Women,699,366,333,Norway,17,9,8,2,1,1,1,1,0,0,0,10,7,3,0,0,0,0,0,0,0,0,0,0,0,0
+Vivianne Miedema,27,2021/2022,Forward,Arsenal Women,1743,834,909,Netherlands,22,11,11,14,8,6,8,5,3,0,0,15,7,8,8,4,4,3,0,0,3,0,0,0,0,0
+Yui Hasegawa,26,2021/2022,Midfielder,West Ham United Women,1461,810,651,Japan,17,9,8,2,0,2,2,0,2,0,0,4,2,2,26,13,13,0,0,0,0,0,0,0,0,0
+Zaneta Wyne,33,2021/2022,Midfielder,West Ham United Women,1150,423,727,USA,18,8,10,1,0,1,0,0,0,0,0,3,2,1,20,6,14,0,0,0,0,0,0,0,0,0
+Zecira Musovic,27,2021/2022,Goalkeeper,Chelsea Women,786,360,426,Sweden,10,4,6,0,0,0,1,1,0,0,0,6,3,3,3,1,2,0,0,0,0,8,2.75,0.25,0.75,11
